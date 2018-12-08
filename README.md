@@ -1,2 +1,5 @@
-# fiirstshinyapp
-This is my first shiny app
+# firstshinyapp
+
+design still in progress!
+
+https://georgeapp.shinyapps.io/ggplot/
