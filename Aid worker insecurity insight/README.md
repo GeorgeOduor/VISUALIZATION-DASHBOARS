@@ -13,7 +13,8 @@ Bellow is a preview of the dashboard.
 
 ## Live link
 
-georgeapp.shinyapps.io/insecurityinsight
+[georgeapp.shinyapps.io/insecurityinsight](georgeapp.shinyapps.io/insecurityinsight)
 
 ## Data source
 
+The data is available at The humanitarian Data Exchange website database and can be accesed here:[https://data.humdata.org/dataset/sind-aid-worker-kka-dataset](https://data.humdata.org/dataset/sind-aid-worker-kka-dataset)
