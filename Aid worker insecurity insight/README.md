@@ -9,7 +9,7 @@ While they provide such good services their security ca be over looked.This dash
 
 Bellow is a preview of the dashboard.
 
-![](/screenshot.png)
+![insecurity](/screenshot.png)
 
 ## Live link
 
