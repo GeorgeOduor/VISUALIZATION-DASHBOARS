@@ -1,0 +1,3421 @@
+X1,Country,effect,month,numberes_affected,year
+1,afghanistan,kidnapped,january,0,2017
+71,afghanistan,kidnapped,february,3,2017
+141,afghanistan,kidnapped,march,0,2017
+211,afghanistan,kidnapped,april,0,2017
+281,afghanistan,kidnapped,may,1,2017
+351,afghanistan,kidnapped,june,0,2017
+421,afghanistan,kidnapped,july,0,2017
+491,afghanistan,kidnapped,august,0,2017
+561,afghanistan,kidnapped,september,0,2017
+631,afghanistan,kidnapped,october,0,2017
+701,afghanistan,kidnapped,november,0,2017
+771,afghanistan,kidnapped,december,0,2017
+841,afghanistan,killed,january,0,2017
+911,afghanistan,killed,february,6,2017
+981,afghanistan,killed,march,0,2017
+1051,afghanistan,killed,april,0,2017
+1121,afghanistan,killed,may,2,2017
+1191,afghanistan,killed,june,0,2017
+1261,afghanistan,killed,july,0,2017
+1331,afghanistan,killed,august,3,2017
+1401,afghanistan,killed,september,1,2017
+1471,afghanistan,killed,october,0,2017
+1541,afghanistan,killed,november,0,2017
+1611,afghanistan,killed,december,0,2017
+1681,afghanistan,arrested,january,0,2017
+1751,afghanistan,arrested,february,0,2017
+1821,afghanistan,arrested,march,0,2017
+1891,afghanistan,arrested,april,0,2017
+1961,afghanistan,arrested,may,0,2017
+2031,afghanistan,arrested,june,0,2017
+2101,afghanistan,arrested,july,0,2017
+2171,afghanistan,arrested,august,0,2017
+2241,afghanistan,arrested,september,0,2017
+2311,afghanistan,arrested,october,0,2017
+2381,afghanistan,arrested,november,0,2017
+2451,afghanistan,arrested,december,0,2017
+2521,afghanistan,killed,january,1,2018
+2522,afghanistan,killed,january,5,2018
+2548,afghanistan,killed,february,0,2018
+2549,afghanistan,killed,february,0,2018
+2617,afghanistan,killed,april,0,2018
+2648,afghanistan,killed,may,5,2018
+2649,afghanistan,killed,may,1,2018
+2670,afghanistan,killed,june,0,2018
+2697,afghanistan,killed,july,0,2018
+2698,afghanistan,killed,july,2,2018
+2734,afghanistan,killed,october,0,2018
+2759,afghanistan,killed,december,0,2018
+2770,afghanistan,kidnapped,january,1,2018
+2771,afghanistan,kidnapped,january,0,2018
+2797,afghanistan,kidnapped,february,0,2018
+2798,afghanistan,kidnapped,february,0,2018
+2866,afghanistan,kidnapped,april,1,2018
+2897,afghanistan,kidnapped,may,1,2018
+2898,afghanistan,kidnapped,may,0,2018
+2919,afghanistan,kidnapped,june,1,2018
+2946,afghanistan,kidnapped,july,12,2018
+2947,afghanistan,kidnapped,july,0,2018
+2983,afghanistan,kidnapped,october,1,2018
+3008,afghanistan,kidnapped,december,0,2018
+3019,afghanistan,arrested,january,0,2018
+3020,afghanistan,arrested,january,0,2018
+3046,afghanistan,arrested,february,1,2018
+3047,afghanistan,arrested,february,1,2018
+3115,afghanistan,arrested,april,0,2018
+3146,afghanistan,arrested,may,0,2018
+3147,afghanistan,arrested,may,0,2018
+3168,afghanistan,arrested,june,0,2018
+3195,afghanistan,arrested,july,0,2018
+3196,afghanistan,arrested,july,0,2018
+3232,afghanistan,arrested,october,0,2018
+3257,afghanistan,arrested,december,1,2018
+3268,afghanistan,killed,may,3,2019
+3269,afghanistan,killed,may,2,2019
+3270,afghanistan,killed,may,0,2019
+3319,afghanistan,kidnapped,may,0,2019
+3320,afghanistan,kidnapped,may,0,2019
+3321,afghanistan,kidnapped,may,4,2019
+3370,afghanistan,arrested,may,0,2019
+3371,afghanistan,arrested,may,0,2019
+3372,afghanistan,arrested,may,0,2019
+2,angola,kidnapped,january,0,2017
+72,angola,kidnapped,february,0,2017
+142,angola,kidnapped,march,0,2017
+212,angola,kidnapped,april,0,2017
+282,angola,kidnapped,may,0,2017
+352,angola,kidnapped,june,0,2017
+422,angola,kidnapped,july,0,2017
+492,angola,kidnapped,august,0,2017
+562,angola,kidnapped,september,0,2017
+632,angola,kidnapped,october,0,2017
+702,angola,kidnapped,november,0,2017
+772,angola,kidnapped,december,0,2017
+842,angola,killed,january,0,2017
+912,angola,killed,february,0,2017
+982,angola,killed,march,0,2017
+1052,angola,killed,april,0,2017
+1122,angola,killed,may,0,2017
+1192,angola,killed,june,0,2017
+1262,angola,killed,july,0,2017
+1332,angola,killed,august,0,2017
+1402,angola,killed,september,0,2017
+1472,angola,killed,october,0,2017
+1542,angola,killed,november,0,2017
+1612,angola,killed,december,0,2017
+1682,angola,arrested,january,0,2017
+1752,angola,arrested,february,0,2017
+1822,angola,arrested,march,0,2017
+1892,angola,arrested,april,0,2017
+1962,angola,arrested,may,0,2017
+2032,angola,arrested,june,0,2017
+2102,angola,arrested,july,0,2017
+2172,angola,arrested,august,0,2017
+2242,angola,arrested,september,0,2017
+2312,angola,arrested,october,0,2017
+2382,angola,arrested,november,0,2017
+2452,angola,arrested,december,0,2017
+3,azerbaijan,kidnapped,january,0,2017
+73,azerbaijan,kidnapped,february,0,2017
+143,azerbaijan,kidnapped,march,0,2017
+213,azerbaijan,kidnapped,april,0,2017
+283,azerbaijan,kidnapped,may,0,2017
+353,azerbaijan,kidnapped,june,0,2017
+423,azerbaijan,kidnapped,july,0,2017
+493,azerbaijan,kidnapped,august,0,2017
+563,azerbaijan,kidnapped,september,0,2017
+633,azerbaijan,kidnapped,october,0,2017
+703,azerbaijan,kidnapped,november,0,2017
+773,azerbaijan,kidnapped,december,0,2017
+843,azerbaijan,killed,january,0,2017
+913,azerbaijan,killed,february,0,2017
+983,azerbaijan,killed,march,0,2017
+1053,azerbaijan,killed,april,0,2017
+1123,azerbaijan,killed,may,0,2017
+1193,azerbaijan,killed,june,0,2017
+1263,azerbaijan,killed,july,0,2017
+1333,azerbaijan,killed,august,0,2017
+1403,azerbaijan,killed,september,0,2017
+1473,azerbaijan,killed,october,0,2017
+1543,azerbaijan,killed,november,0,2017
+1613,azerbaijan,killed,december,0,2017
+1683,azerbaijan,arrested,january,0,2017
+1753,azerbaijan,arrested,february,0,2017
+1823,azerbaijan,arrested,march,0,2017
+1893,azerbaijan,arrested,april,0,2017
+1963,azerbaijan,arrested,may,0,2017
+2033,azerbaijan,arrested,june,0,2017
+2103,azerbaijan,arrested,july,0,2017
+2173,azerbaijan,arrested,august,0,2017
+2243,azerbaijan,arrested,september,0,2017
+2313,azerbaijan,arrested,october,0,2017
+2383,azerbaijan,arrested,november,0,2017
+2453,azerbaijan,arrested,december,0,2017
+2579,azerbaijan,killed,march,3,2018
+2828,azerbaijan,kidnapped,march,0,2018
+3077,azerbaijan,arrested,march,0,2018
+4,bangladesh,kidnapped,january,0,2017
+74,bangladesh,kidnapped,february,0,2017
+144,bangladesh,kidnapped,march,0,2017
+214,bangladesh,kidnapped,april,0,2017
+284,bangladesh,kidnapped,may,0,2017
+354,bangladesh,kidnapped,june,0,2017
+424,bangladesh,kidnapped,july,1,2017
+494,bangladesh,kidnapped,august,0,2017
+564,bangladesh,kidnapped,september,0,2017
+634,bangladesh,kidnapped,october,0,2017
+704,bangladesh,kidnapped,november,0,2017
+774,bangladesh,kidnapped,december,0,2017
+844,bangladesh,killed,january,0,2017
+914,bangladesh,killed,february,0,2017
+984,bangladesh,killed,march,0,2017
+1054,bangladesh,killed,april,0,2017
+1124,bangladesh,killed,may,0,2017
+1194,bangladesh,killed,june,0,2017
+1264,bangladesh,killed,july,0,2017
+1334,bangladesh,killed,august,0,2017
+1404,bangladesh,killed,september,9,2017
+1474,bangladesh,killed,october,0,2017
+1544,bangladesh,killed,november,0,2017
+1614,bangladesh,killed,december,1,2017
+1684,bangladesh,arrested,january,1,2017
+1754,bangladesh,arrested,february,0,2017
+1824,bangladesh,arrested,march,0,2017
+1894,bangladesh,arrested,april,0,2017
+1964,bangladesh,arrested,may,0,2017
+2034,bangladesh,arrested,june,0,2017
+2104,bangladesh,arrested,july,0,2017
+2174,bangladesh,arrested,august,1,2017
+2244,bangladesh,arrested,september,0,2017
+2314,bangladesh,arrested,october,0,2017
+2384,bangladesh,arrested,november,0,2017
+2454,bangladesh,arrested,december,0,2017
+2523,bangladesh,killed,january,0,2018
+2550,bangladesh,killed,february,0,2018
+2580,bangladesh,killed,march,0,2018
+2618,bangladesh,killed,april,0,2018
+2619,bangladesh,killed,april,0,2018
+2620,bangladesh,killed,april,0,2018
+2772,bangladesh,kidnapped,january,0,2018
+2799,bangladesh,kidnapped,february,0,2018
+2829,bangladesh,kidnapped,march,0,2018
+2867,bangladesh,kidnapped,april,0,2018
+2868,bangladesh,kidnapped,april,0,2018
+2869,bangladesh,kidnapped,april,0,2018
+3021,bangladesh,arrested,january,38,2018
+3048,bangladesh,arrested,february,11,2018
+3078,bangladesh,arrested,march,4,2018
+3116,bangladesh,arrested,april,1,2018
+3117,bangladesh,arrested,april,1,2018
+3118,bangladesh,arrested,april,6,2018
+5,burkina faso,kidnapped,january,0,2017
+75,burkina faso,kidnapped,february,0,2017
+145,burkina faso,kidnapped,march,0,2017
+215,burkina faso,kidnapped,april,0,2017
+285,burkina faso,kidnapped,may,0,2017
+355,burkina faso,kidnapped,june,0,2017
+425,burkina faso,kidnapped,july,0,2017
+495,burkina faso,kidnapped,august,0,2017
+565,burkina faso,kidnapped,september,0,2017
+635,burkina faso,kidnapped,october,0,2017
+705,burkina faso,kidnapped,november,0,2017
+775,burkina faso,kidnapped,december,0,2017
+845,burkina faso,killed,january,0,2017
+915,burkina faso,killed,february,0,2017
+985,burkina faso,killed,march,0,2017
+1055,burkina faso,killed,april,0,2017
+1125,burkina faso,killed,may,1,2017
+1195,burkina faso,killed,june,0,2017
+1265,burkina faso,killed,july,0,2017
+1335,burkina faso,killed,august,0,2017
+1405,burkina faso,killed,september,0,2017
+1475,burkina faso,killed,october,0,2017
+1545,burkina faso,killed,november,0,2017
+1615,burkina faso,killed,december,0,2017
+1685,burkina faso,arrested,january,0,2017
+1755,burkina faso,arrested,february,0,2017
+1825,burkina faso,arrested,march,0,2017
+1895,burkina faso,arrested,april,0,2017
+1965,burkina faso,arrested,may,0,2017
+2035,burkina faso,arrested,june,0,2017
+2105,burkina faso,arrested,july,0,2017
+2175,burkina faso,arrested,august,0,2017
+2245,burkina faso,arrested,september,0,2017
+2315,burkina faso,arrested,october,0,2017
+2385,burkina faso,arrested,november,0,2017
+2455,burkina faso,arrested,december,0,2017
+2650,burkina faso,killed,may,0,2018
+2760,burkina faso,killed,december,0,2018
+2899,burkina faso,kidnapped,may,1,2018
+3009,burkina faso,kidnapped,december,1,2018
+3148,burkina faso,arrested,may,0,2018
+3258,burkina faso,arrested,december,0,2018
+3277,burkina faso,killed,march,0,2019
+3278,burkina faso,killed,march,0,2019
+3294,burkina faso,killed,april,0,2019
+3309,burkina faso,killed,may,0,2019
+3328,burkina faso,kidnapped,march,1,2019
+3329,burkina faso,kidnapped,march,1,2019
+3345,burkina faso,kidnapped,april,1,2019
+3360,burkina faso,kidnapped,may,5,2019
+3379,burkina faso,arrested,march,0,2019
+3380,burkina faso,arrested,march,0,2019
+3396,burkina faso,arrested,april,0,2019
+3411,burkina faso,arrested,may,0,2019
+6,burundi,kidnapped,january,0,2017
+76,burundi,kidnapped,february,0,2017
+146,burundi,kidnapped,march,0,2017
+216,burundi,kidnapped,april,0,2017
+286,burundi,kidnapped,may,0,2017
+356,burundi,kidnapped,june,0,2017
+426,burundi,kidnapped,july,0,2017
+496,burundi,kidnapped,august,0,2017
+566,burundi,kidnapped,september,0,2017
+636,burundi,kidnapped,october,0,2017
+706,burundi,kidnapped,november,0,2017
+776,burundi,kidnapped,december,0,2017
+846,burundi,killed,january,0,2017
+916,burundi,killed,february,0,2017
+986,burundi,killed,march,0,2017
+1056,burundi,killed,april,0,2017
+1126,burundi,killed,may,0,2017
+1196,burundi,killed,june,0,2017
+1266,burundi,killed,july,0,2017
+1336,burundi,killed,august,0,2017
+1406,burundi,killed,september,0,2017
+1476,burundi,killed,october,0,2017
+1546,burundi,killed,november,0,2017
+1616,burundi,killed,december,0,2017
+1686,burundi,arrested,january,0,2017
+1756,burundi,arrested,february,0,2017
+1826,burundi,arrested,march,0,2017
+1896,burundi,arrested,april,0,2017
+1966,burundi,arrested,may,0,2017
+2036,burundi,arrested,june,0,2017
+2106,burundi,arrested,july,0,2017
+2176,burundi,arrested,august,0,2017
+2246,burundi,arrested,september,1,2017
+2316,burundi,arrested,october,0,2017
+2386,burundi,arrested,november,0,2017
+2456,burundi,arrested,december,0,2017
+2651,burundi,killed,may,0,2018
+2735,burundi,killed,october,0,2018
+2761,burundi,killed,december,0,2018
+2900,burundi,kidnapped,may,0,2018
+2984,burundi,kidnapped,october,0,2018
+3010,burundi,kidnapped,december,0,2018
+3149,burundi,arrested,may,2,2018
+3233,burundi,arrested,october,3,2018
+3259,burundi,arrested,december,1,2018
+7,cambodia,kidnapped,january,0,2017
+77,cambodia,kidnapped,february,0,2017
+147,cambodia,kidnapped,march,0,2017
+217,cambodia,kidnapped,april,0,2017
+287,cambodia,kidnapped,may,0,2017
+357,cambodia,kidnapped,june,0,2017
+427,cambodia,kidnapped,july,0,2017
+497,cambodia,kidnapped,august,0,2017
+567,cambodia,kidnapped,september,0,2017
+637,cambodia,kidnapped,october,0,2017
+707,cambodia,kidnapped,november,0,2017
+777,cambodia,kidnapped,december,0,2017
+847,cambodia,killed,january,0,2017
+917,cambodia,killed,february,0,2017
+987,cambodia,killed,march,0,2017
+1057,cambodia,killed,april,0,2017
+1127,cambodia,killed,may,0,2017
+1197,cambodia,killed,june,0,2017
+1267,cambodia,killed,july,0,2017
+1337,cambodia,killed,august,0,2017
+1407,cambodia,killed,september,0,2017
+1477,cambodia,killed,october,0,2017
+1547,cambodia,killed,november,0,2017
+1617,cambodia,killed,december,0,2017
+1687,cambodia,arrested,january,0,2017
+1757,cambodia,arrested,february,0,2017
+1827,cambodia,arrested,march,0,2017
+1897,cambodia,arrested,april,0,2017
+1967,cambodia,arrested,may,0,2017
+2037,cambodia,arrested,june,0,2017
+2107,cambodia,arrested,july,0,2017
+2177,cambodia,arrested,august,0,2017
+2247,cambodia,arrested,september,0,2017
+2317,cambodia,arrested,october,0,2017
+2387,cambodia,arrested,november,0,2017
+2457,cambodia,arrested,december,0,2017
+2524,cambodia,killed,january,0,2018
+2652,cambodia,killed,may,0,2018
+2773,cambodia,kidnapped,january,1,2018
+2901,cambodia,kidnapped,may,0,2018
+3022,cambodia,arrested,january,0,2018
+3150,cambodia,arrested,may,1,2018
+8,cameroon,kidnapped,january,0,2017
+78,cameroon,kidnapped,february,0,2017
+148,cameroon,kidnapped,march,0,2017
+218,cameroon,kidnapped,april,0,2017
+288,cameroon,kidnapped,may,0,2017
+358,cameroon,kidnapped,june,0,2017
+428,cameroon,kidnapped,july,0,2017
+498,cameroon,kidnapped,august,0,2017
+568,cameroon,kidnapped,september,0,2017
+638,cameroon,kidnapped,october,0,2017
+708,cameroon,kidnapped,november,0,2017
+778,cameroon,kidnapped,december,0,2017
+848,cameroon,killed,january,0,2017
+918,cameroon,killed,february,5,2017
+988,cameroon,killed,march,0,2017
+1058,cameroon,killed,april,0,2017
+1128,cameroon,killed,may,0,2017
+1198,cameroon,killed,june,0,2017
+1268,cameroon,killed,july,0,2017
+1338,cameroon,killed,august,0,2017
+1408,cameroon,killed,september,0,2017
+1478,cameroon,killed,october,0,2017
+1548,cameroon,killed,november,0,2017
+1618,cameroon,killed,december,0,2017
+1688,cameroon,arrested,january,0,2017
+1758,cameroon,arrested,february,0,2017
+1828,cameroon,arrested,march,0,2017
+1898,cameroon,arrested,april,0,2017
+1968,cameroon,arrested,may,0,2017
+2038,cameroon,arrested,june,0,2017
+2108,cameroon,arrested,july,0,2017
+2178,cameroon,arrested,august,0,2017
+2248,cameroon,arrested,september,0,2017
+2318,cameroon,arrested,october,0,2017
+2388,cameroon,arrested,november,0,2017
+2458,cameroon,arrested,december,0,2017
+3295,cameroon,killed,april,0,2019
+3346,cameroon,kidnapped,april,1,2019
+3397,cameroon,arrested,april,0,2019
+9,central african republic,kidnapped,january,0,2017
+79,central african republic,kidnapped,february,0,2017
+149,central african republic,kidnapped,march,0,2017
+219,central african republic,kidnapped,april,0,2017
+289,central african republic,kidnapped,may,0,2017
+359,central african republic,kidnapped,june,0,2017
+429,central african republic,kidnapped,july,1,2017
+499,central african republic,kidnapped,august,0,2017
+569,central african republic,kidnapped,september,4,2017
+639,central african republic,kidnapped,october,0,2017
+709,central african republic,kidnapped,november,0,2017
+779,central african republic,kidnapped,december,0,2017
+849,central african republic,killed,january,1,2017
+919,central african republic,killed,february,0,2017
+989,central african republic,killed,march,0,2017
+1059,central african republic,killed,april,1,2017
+1129,central african republic,killed,may,0,2017
+1199,central african republic,killed,june,1,2017
+1269,central african republic,killed,july,2,2017
+1339,central african republic,killed,august,6,2017
+1409,central african republic,killed,september,1,2017
+1479,central african republic,killed,october,0,2017
+1549,central african republic,killed,november,1,2017
+1619,central african republic,killed,december,2,2017
+1689,central african republic,arrested,january,0,2017
+1759,central african republic,arrested,february,0,2017
+1829,central african republic,arrested,march,0,2017
+1899,central african republic,arrested,april,0,2017
+1969,central african republic,arrested,may,0,2017
+2039,central african republic,arrested,june,0,2017
+2109,central african republic,arrested,july,0,2017
+2179,central african republic,arrested,august,0,2017
+2249,central african republic,arrested,september,0,2017
+2319,central african republic,arrested,october,0,2017
+2389,central african republic,arrested,november,0,2017
+2459,central african republic,arrested,december,0,2017
+2525,central african republic,killed,january,0,2018
+2551,central african republic,killed,february,4,2018
+2552,central african republic,killed,february,0,2018
+2581,central african republic,killed,march,1,2018
+2709,central african republic,killed,august,1,2018
+2710,central african republic,killed,august,2,2018
+2711,central african republic,killed,august,0,2018
+2745,central african republic,killed,november,0,2018
+2774,central african republic,kidnapped,january,1,2018
+2800,central african republic,kidnapped,february,0,2018
+2801,central african republic,kidnapped,february,1,2018
+2830,central african republic,kidnapped,march,0,2018
+2958,central african republic,kidnapped,august,0,2018
+2959,central african republic,kidnapped,august,0,2018
+2960,central african republic,kidnapped,august,1,2018
+2994,central african republic,kidnapped,november,2,2018
+3023,central african republic,arrested,january,0,2018
+3049,central african republic,arrested,february,0,2018
+3050,central african republic,arrested,february,0,2018
+3079,central african republic,arrested,march,0,2018
+3207,central african republic,arrested,august,0,2018
+3208,central african republic,arrested,august,0,2018
+3209,central african republic,arrested,august,0,2018
+3243,central african republic,arrested,november,0,2018
+3272,central african republic,killed,january,2,2019
+3273,central african republic,killed,january,0,2019
+3274,central african republic,killed,january,1,2019
+3275,central african republic,killed,january,1,2019
+3276,central african republic,killed,march,0,2019
+3280,central african republic,killed,april,0,2019
+3281,central african republic,killed,may,1,2019
+3323,central african republic,kidnapped,january,0,2019
+3324,central african republic,kidnapped,january,6,2019
+3325,central african republic,kidnapped,january,0,2019
+3326,central african republic,kidnapped,january,0,2019
+3327,central african republic,kidnapped,march,1,2019
+3331,central african republic,kidnapped,april,1,2019
+3332,central african republic,kidnapped,may,0,2019
+3374,central african republic,arrested,january,0,2019
+3375,central african republic,arrested,january,0,2019
+3376,central african republic,arrested,january,0,2019
+3377,central african republic,arrested,january,0,2019
+3378,central african republic,arrested,march,0,2019
+3382,central african republic,arrested,april,0,2019
+3383,central african republic,arrested,may,0,2019
+10,chad,kidnapped,january,0,2017
+80,chad,kidnapped,february,0,2017
+150,chad,kidnapped,march,0,2017
+220,chad,kidnapped,april,0,2017
+290,chad,kidnapped,may,0,2017
+360,chad,kidnapped,june,0,2017
+430,chad,kidnapped,july,0,2017
+500,chad,kidnapped,august,0,2017
+570,chad,kidnapped,september,0,2017
+640,chad,kidnapped,october,0,2017
+710,chad,kidnapped,november,0,2017
+780,chad,kidnapped,december,1,2017
+850,chad,killed,january,0,2017
+920,chad,killed,february,0,2017
+990,chad,killed,march,0,2017
+1060,chad,killed,april,0,2017
+1130,chad,killed,may,0,2017
+1200,chad,killed,june,0,2017
+1270,chad,killed,july,0,2017
+1340,chad,killed,august,0,2017
+1410,chad,killed,september,0,2017
+1480,chad,killed,october,0,2017
+1550,chad,killed,november,0,2017
+1620,chad,killed,december,0,2017
+1690,chad,arrested,january,0,2017
+1760,chad,arrested,february,0,2017
+1830,chad,arrested,march,1,2017
+1900,chad,arrested,april,0,2017
+1970,chad,arrested,may,0,2017
+2040,chad,arrested,june,0,2017
+2110,chad,arrested,july,0,2017
+2180,chad,arrested,august,0,2017
+2250,chad,arrested,september,0,2017
+2320,chad,arrested,october,0,2017
+2390,chad,arrested,november,0,2017
+2460,chad,arrested,december,0,2017
+2621,chad,killed,april,0,2018
+2671,chad,killed,june,1,2018
+2736,chad,killed,october,0,2018
+2870,chad,kidnapped,april,0,2018
+2920,chad,kidnapped,june,0,2018
+2985,chad,kidnapped,october,2,2018
+3119,chad,arrested,april,1,2018
+3169,chad,arrested,june,0,2018
+3234,chad,arrested,october,0,2018
+11,china,kidnapped,january,0,2017
+81,china,kidnapped,february,0,2017
+151,china,kidnapped,march,0,2017
+221,china,kidnapped,april,0,2017
+291,china,kidnapped,may,0,2017
+361,china,kidnapped,june,0,2017
+431,china,kidnapped,july,0,2017
+501,china,kidnapped,august,1,2017
+571,china,kidnapped,september,0,2017
+641,china,kidnapped,october,0,2017
+711,china,kidnapped,november,0,2017
+781,china,kidnapped,december,0,2017
+851,china,killed,january,0,2017
+921,china,killed,february,0,2017
+991,china,killed,march,0,2017
+1061,china,killed,april,0,2017
+1131,china,killed,may,2,2017
+1201,china,killed,june,0,2017
+1271,china,killed,july,0,2017
+1341,china,killed,august,0,2017
+1411,china,killed,september,0,2017
+1481,china,killed,october,0,2017
+1551,china,killed,november,0,2017
+1621,china,killed,december,0,2017
+1691,china,arrested,january,0,2017
+1761,china,arrested,february,0,2017
+1831,china,arrested,march,0,2017
+1901,china,arrested,april,0,2017
+1971,china,arrested,may,0,2017
+2041,china,arrested,june,0,2017
+2111,china,arrested,july,0,2017
+2181,china,arrested,august,0,2017
+2251,china,arrested,september,0,2017
+2321,china,arrested,october,0,2017
+2391,china,arrested,november,0,2017
+2461,china,arrested,december,0,2017
+2762,china,killed,december,0,2018
+3011,china,kidnapped,december,0,2018
+3260,china,arrested,december,1,2018
+12,colombia,kidnapped,january,0,2017
+82,colombia,kidnapped,february,0,2017
+152,colombia,kidnapped,march,0,2017
+222,colombia,kidnapped,april,0,2017
+292,colombia,kidnapped,may,1,2017
+362,colombia,kidnapped,june,0,2017
+432,colombia,kidnapped,july,1,2017
+502,colombia,kidnapped,august,0,2017
+572,colombia,kidnapped,september,0,2017
+642,colombia,kidnapped,october,0,2017
+712,colombia,kidnapped,november,0,2017
+782,colombia,kidnapped,december,0,2017
+852,colombia,killed,january,0,2017
+922,colombia,killed,february,0,2017
+992,colombia,killed,march,0,2017
+1062,colombia,killed,april,0,2017
+1132,colombia,killed,may,0,2017
+1202,colombia,killed,june,0,2017
+1272,colombia,killed,july,0,2017
+1342,colombia,killed,august,0,2017
+1412,colombia,killed,september,0,2017
+1482,colombia,killed,october,0,2017
+1552,colombia,killed,november,0,2017
+1622,colombia,killed,december,0,2017
+1692,colombia,arrested,january,0,2017
+1762,colombia,arrested,february,0,2017
+1832,colombia,arrested,march,0,2017
+1902,colombia,arrested,april,0,2017
+1972,colombia,arrested,may,0,2017
+2042,colombia,arrested,june,0,2017
+2112,colombia,arrested,july,0,2017
+2182,colombia,arrested,august,0,2017
+2252,colombia,arrested,september,0,2017
+2322,colombia,arrested,october,0,2017
+2392,colombia,arrested,november,0,2017
+2462,colombia,arrested,december,0,2017
+2526,colombia,killed,january,0,2018
+2775,colombia,kidnapped,january,0,2018
+3024,colombia,arrested,january,5,2018
+2553,democratic republic of the congo,killed,february,0,2018
+2554,democratic republic of the congo,killed,february,0,2018
+2555,democratic republic of the congo,killed,february,0,2018
+2582,democratic republic of the congo,killed,march,1,2018
+2583,democratic republic of the congo,killed,march,1,2018
+2622,democratic republic of the congo,killed,april,0,2018
+2653,democratic republic of the congo,killed,may,0,2018
+2654,democratic republic of the congo,killed,may,0,2018
+2699,democratic republic of the congo,killed,july,0,2018
+2700,democratic republic of the congo,killed,july,0,2018
+2712,democratic republic of the congo,killed,august,0,2018
+2713,democratic republic of the congo,killed,august,0,2018
+2714,democratic republic of the congo,killed,august,0,2018
+2746,democratic republic of the congo,killed,november,2,2018
+2747,democratic republic of the congo,killed,november,2,2018
+2748,democratic republic of the congo,killed,november,0,2018
+2763,democratic republic of the congo,killed,december,1,2018
+2802,democratic republic of the congo,kidnapped,february,0,2018
+2803,democratic republic of the congo,kidnapped,february,3,2018
+2804,democratic republic of the congo,kidnapped,february,2,2018
+2831,democratic republic of the congo,kidnapped,march,0,2018
+2832,democratic republic of the congo,kidnapped,march,0,2018
+2871,democratic republic of the congo,kidnapped,april,2,2018
+2902,democratic republic of the congo,kidnapped,may,3,2018
+2903,democratic republic of the congo,kidnapped,may,1,2018
+2948,democratic republic of the congo,kidnapped,july,2,2018
+2949,democratic republic of the congo,kidnapped,july,1,2018
+2961,democratic republic of the congo,kidnapped,august,7,2018
+2962,democratic republic of the congo,kidnapped,august,6,2018
+2963,democratic republic of the congo,kidnapped,august,4,2018
+2995,democratic republic of the congo,kidnapped,november,0,2018
+2996,democratic republic of the congo,kidnapped,november,0,2018
+2997,democratic republic of the congo,kidnapped,november,1,2018
+3012,democratic republic of the congo,kidnapped,december,0,2018
+3051,democratic republic of the congo,arrested,february,1,2018
+3052,democratic republic of the congo,arrested,february,0,2018
+3053,democratic republic of the congo,arrested,february,0,2018
+3080,democratic republic of the congo,arrested,march,0,2018
+3081,democratic republic of the congo,arrested,march,0,2018
+3120,democratic republic of the congo,arrested,april,0,2018
+3151,democratic republic of the congo,arrested,may,0,2018
+3152,democratic republic of the congo,arrested,may,0,2018
+3197,democratic republic of the congo,arrested,july,0,2018
+3198,democratic republic of the congo,arrested,july,0,2018
+3210,democratic republic of the congo,arrested,august,0,2018
+3211,democratic republic of the congo,arrested,august,0,2018
+3212,democratic republic of the congo,arrested,august,0,2018
+3244,democratic republic of the congo,arrested,november,0,2018
+3245,democratic republic of the congo,arrested,november,0,2018
+3246,democratic republic of the congo,arrested,november,0,2018
+3261,democratic republic of the congo,arrested,december,0,2018
+3282,democratic republic of the congo,killed,april,1,2019
+3333,democratic republic of the congo,kidnapped,april,0,2019
+3384,democratic republic of the congo,arrested,april,0,2019
+13,djibouti,kidnapped,january,0,2017
+83,djibouti,kidnapped,february,0,2017
+153,djibouti,kidnapped,march,0,2017
+223,djibouti,kidnapped,april,0,2017
+293,djibouti,kidnapped,may,0,2017
+363,djibouti,kidnapped,june,0,2017
+433,djibouti,kidnapped,july,0,2017
+503,djibouti,kidnapped,august,0,2017
+573,djibouti,kidnapped,september,0,2017
+643,djibouti,kidnapped,october,0,2017
+713,djibouti,kidnapped,november,0,2017
+783,djibouti,kidnapped,december,0,2017
+853,djibouti,killed,january,0,2017
+923,djibouti,killed,february,0,2017
+993,djibouti,killed,march,0,2017
+1063,djibouti,killed,april,0,2017
+1133,djibouti,killed,may,0,2017
+1203,djibouti,killed,june,0,2017
+1273,djibouti,killed,july,0,2017
+1343,djibouti,killed,august,0,2017
+1413,djibouti,killed,september,0,2017
+1483,djibouti,killed,october,0,2017
+1553,djibouti,killed,november,0,2017
+1623,djibouti,killed,december,0,2017
+1693,djibouti,arrested,january,0,2017
+1763,djibouti,arrested,february,0,2017
+1833,djibouti,arrested,march,0,2017
+1903,djibouti,arrested,april,0,2017
+1973,djibouti,arrested,may,0,2017
+2043,djibouti,arrested,june,1,2017
+2113,djibouti,arrested,july,0,2017
+2183,djibouti,arrested,august,0,2017
+2253,djibouti,arrested,september,0,2017
+2323,djibouti,arrested,october,0,2017
+2393,djibouti,arrested,november,0,2017
+2463,djibouti,arrested,december,0,2017
+3300,dominican republic,killed,april,0,2019
+3351,dominican republic,kidnapped,april,0,2019
+3402,dominican republic,arrested,april,1,2019
+14,drc,kidnapped,january,0,2017
+84,drc,kidnapped,february,0,2017
+154,drc,kidnapped,march,0,2017
+224,drc,kidnapped,april,18,2017
+294,drc,kidnapped,may,30,2017
+364,drc,kidnapped,june,2,2017
+434,drc,kidnapped,july,1,2017
+504,drc,kidnapped,august,2,2017
+574,drc,kidnapped,september,0,2017
+644,drc,kidnapped,october,0,2017
+714,drc,kidnapped,november,0,2017
+784,drc,kidnapped,december,0,2017
+854,drc,killed,january,0,2017
+924,drc,killed,february,0,2017
+994,drc,killed,march,3,2017
+1064,drc,killed,april,0,2017
+1134,drc,killed,may,0,2017
+1204,drc,killed,june,0,2017
+1274,drc,killed,july,0,2017
+1344,drc,killed,august,0,2017
+1414,drc,killed,september,0,2017
+1484,drc,killed,october,0,2017
+1554,drc,killed,november,0,2017
+1624,drc,killed,december,0,2017
+1694,drc,arrested,january,0,2017
+1764,drc,arrested,february,1,2017
+1834,drc,arrested,march,1,2017
+1904,drc,arrested,april,0,2017
+1974,drc,arrested,may,0,2017
+2044,drc,arrested,june,0,2017
+2114,drc,arrested,july,0,2017
+2184,drc,arrested,august,1,2017
+2254,drc,arrested,september,0,2017
+2324,drc,arrested,october,0,2017
+2394,drc,arrested,november,0,2017
+2464,drc,arrested,december,0,2017
+15,ecuador,kidnapped,january,0,2017
+85,ecuador,kidnapped,february,0,2017
+155,ecuador,kidnapped,march,0,2017
+225,ecuador,kidnapped,april,0,2017
+295,ecuador,kidnapped,may,0,2017
+365,ecuador,kidnapped,june,0,2017
+435,ecuador,kidnapped,july,0,2017
+505,ecuador,kidnapped,august,1,2017
+575,ecuador,kidnapped,september,0,2017
+645,ecuador,kidnapped,october,0,2017
+715,ecuador,kidnapped,november,0,2017
+785,ecuador,kidnapped,december,0,2017
+855,ecuador,killed,january,0,2017
+925,ecuador,killed,february,0,2017
+995,ecuador,killed,march,0,2017
+1065,ecuador,killed,april,0,2017
+1135,ecuador,killed,may,0,2017
+1205,ecuador,killed,june,0,2017
+1275,ecuador,killed,july,0,2017
+1345,ecuador,killed,august,0,2017
+1415,ecuador,killed,september,0,2017
+1485,ecuador,killed,october,0,2017
+1555,ecuador,killed,november,0,2017
+1625,ecuador,killed,december,0,2017
+1696,ecuador,arrested,january,0,2017
+1766,ecuador,arrested,february,0,2017
+1836,ecuador,arrested,march,0,2017
+1906,ecuador,arrested,april,0,2017
+1976,ecuador,arrested,may,0,2017
+2046,ecuador,arrested,june,0,2017
+2116,ecuador,arrested,july,0,2017
+2186,ecuador,arrested,august,0,2017
+2256,ecuador,arrested,september,0,2017
+2326,ecuador,arrested,october,0,2017
+2396,ecuador,arrested,november,0,2017
+2466,ecuador,arrested,december,0,2017
+16,egypt,kidnapped,january,0,2017
+86,egypt,kidnapped,february,0,2017
+156,egypt,kidnapped,march,0,2017
+226,egypt,kidnapped,april,0,2017
+296,egypt,kidnapped,may,0,2017
+366,egypt,kidnapped,june,0,2017
+436,egypt,kidnapped,july,0,2017
+506,egypt,kidnapped,august,0,2017
+576,egypt,kidnapped,september,0,2017
+646,egypt,kidnapped,october,0,2017
+716,egypt,kidnapped,november,0,2017
+786,egypt,kidnapped,december,0,2017
+856,egypt,killed,january,0,2017
+926,egypt,killed,february,0,2017
+996,egypt,killed,march,0,2017
+1066,egypt,killed,april,0,2017
+1136,egypt,killed,may,0,2017
+1206,egypt,killed,june,0,2017
+1276,egypt,killed,july,0,2017
+1346,egypt,killed,august,0,2017
+1416,egypt,killed,september,0,2017
+1486,egypt,killed,october,0,2017
+1556,egypt,killed,november,0,2017
+1626,egypt,killed,december,0,2017
+1697,egypt,arrested,january,0,2017
+1767,egypt,arrested,february,0,2017
+1837,egypt,arrested,march,0,2017
+1907,egypt,arrested,april,0,2017
+1977,egypt,arrested,may,0,2017
+2047,egypt,arrested,june,0,2017
+2117,egypt,arrested,july,0,2017
+2187,egypt,arrested,august,0,2017
+2257,egypt,arrested,september,0,2017
+2327,egypt,arrested,october,0,2017
+2397,egypt,arrested,november,0,2017
+2467,egypt,arrested,december,0,2017
+17,el salvador,kidnapped,january,0,2017
+87,el salvador,kidnapped,february,0,2017
+157,el salvador,kidnapped,march,0,2017
+227,el salvador,kidnapped,april,0,2017
+297,el salvador,kidnapped,may,0,2017
+367,el salvador,kidnapped,june,0,2017
+437,el salvador,kidnapped,july,0,2017
+507,el salvador,kidnapped,august,0,2017
+577,el salvador,kidnapped,september,0,2017
+647,el salvador,kidnapped,october,0,2017
+717,el salvador,kidnapped,november,0,2017
+787,el salvador,kidnapped,december,0,2017
+857,el salvador,killed,january,0,2017
+927,el salvador,killed,february,1,2017
+997,el salvador,killed,march,0,2017
+1067,el salvador,killed,april,0,2017
+1137,el salvador,killed,may,0,2017
+1207,el salvador,killed,june,0,2017
+1277,el salvador,killed,july,0,2017
+1347,el salvador,killed,august,0,2017
+1417,el salvador,killed,september,0,2017
+1487,el salvador,killed,october,0,2017
+1557,el salvador,killed,november,0,2017
+1627,el salvador,killed,december,0,2017
+1698,el salvador,arrested,january,0,2017
+1768,el salvador,arrested,february,0,2017
+1838,el salvador,arrested,march,0,2017
+1908,el salvador,arrested,april,0,2017
+1978,el salvador,arrested,may,0,2017
+2048,el salvador,arrested,june,0,2017
+2118,el salvador,arrested,july,0,2017
+2188,el salvador,arrested,august,0,2017
+2258,el salvador,arrested,september,0,2017
+2328,el salvador,arrested,october,0,2017
+2398,el salvador,arrested,november,0,2017
+2468,el salvador,arrested,december,0,2017
+2737,el salvador,killed,october,0,2018
+2986,el salvador,kidnapped,october,0,2018
+3235,el salvador,arrested,october,1,2018
+18,equatorial guinea,kidnapped,january,0,2017
+88,equatorial guinea,kidnapped,february,0,2017
+158,equatorial guinea,kidnapped,march,0,2017
+228,equatorial guinea,kidnapped,april,0,2017
+298,equatorial guinea,kidnapped,may,0,2017
+368,equatorial guinea,kidnapped,june,0,2017
+438,equatorial guinea,kidnapped,july,0,2017
+508,equatorial guinea,kidnapped,august,0,2017
+578,equatorial guinea,kidnapped,september,0,2017
+648,equatorial guinea,kidnapped,october,0,2017
+718,equatorial guinea,kidnapped,november,0,2017
+788,equatorial guinea,kidnapped,december,0,2017
+859,equatorial guinea,killed,january,0,2017
+929,equatorial guinea,killed,february,0,2017
+999,equatorial guinea,killed,march,0,2017
+1069,equatorial guinea,killed,april,0,2017
+1139,equatorial guinea,killed,may,0,2017
+1209,equatorial guinea,killed,june,0,2017
+1279,equatorial guinea,killed,july,0,2017
+1349,equatorial guinea,killed,august,0,2017
+1419,equatorial guinea,killed,september,0,2017
+1489,equatorial guinea,killed,october,0,2017
+1559,equatorial guinea,killed,november,0,2017
+1629,equatorial guinea,killed,december,0,2017
+1695,equatorial guinea,arrested,january,0,2017
+1765,equatorial guinea,arrested,february,0,2017
+1835,equatorial guinea,arrested,march,0,2017
+1905,equatorial guinea,arrested,april,1,2017
+1975,equatorial guinea,arrested,may,0,2017
+2045,equatorial guinea,arrested,june,0,2017
+2115,equatorial guinea,arrested,july,0,2017
+2185,equatorial guinea,arrested,august,0,2017
+2255,equatorial guinea,arrested,september,0,2017
+2325,equatorial guinea,arrested,october,0,2017
+2395,equatorial guinea,arrested,november,0,2017
+2465,equatorial guinea,arrested,december,0,2017
+19,ethiopia,kidnapped,january,0,2017
+89,ethiopia,kidnapped,february,0,2017
+159,ethiopia,kidnapped,march,0,2017
+229,ethiopia,kidnapped,april,0,2017
+299,ethiopia,kidnapped,may,0,2017
+369,ethiopia,kidnapped,june,0,2017
+439,ethiopia,kidnapped,july,0,2017
+509,ethiopia,kidnapped,august,0,2017
+579,ethiopia,kidnapped,september,0,2017
+649,ethiopia,kidnapped,october,0,2017
+719,ethiopia,kidnapped,november,0,2017
+789,ethiopia,kidnapped,december,0,2017
+858,ethiopia,killed,january,0,2017
+928,ethiopia,killed,february,0,2017
+998,ethiopia,killed,march,0,2017
+1068,ethiopia,killed,april,0,2017
+1138,ethiopia,killed,may,0,2017
+1208,ethiopia,killed,june,0,2017
+1278,ethiopia,killed,july,0,2017
+1348,ethiopia,killed,august,0,2017
+1418,ethiopia,killed,september,0,2017
+1488,ethiopia,killed,october,0,2017
+1558,ethiopia,killed,november,0,2017
+1628,ethiopia,killed,december,0,2017
+1699,ethiopia,arrested,january,0,2017
+1769,ethiopia,arrested,february,0,2017
+1839,ethiopia,arrested,march,1,2017
+1909,ethiopia,arrested,april,1,2017
+1979,ethiopia,arrested,may,0,2017
+2049,ethiopia,arrested,june,0,2017
+2119,ethiopia,arrested,july,2,2017
+2189,ethiopia,arrested,august,0,2017
+2259,ethiopia,arrested,september,0,2017
+2329,ethiopia,arrested,october,0,2017
+2399,ethiopia,arrested,november,0,2017
+2469,ethiopia,arrested,december,0,2017
+2584,ethiopia,killed,march,0,2018
+2672,ethiopia,killed,june,1,2018
+2701,ethiopia,killed,july,0,2018
+2749,ethiopia,killed,november,0,2018
+2833,ethiopia,kidnapped,march,0,2018
+2921,ethiopia,kidnapped,june,0,2018
+2950,ethiopia,kidnapped,july,0,2018
+2998,ethiopia,kidnapped,november,0,2018
+3082,ethiopia,arrested,march,1,2018
+3170,ethiopia,arrested,june,0,2018
+3199,ethiopia,arrested,july,1,2018
+3247,ethiopia,arrested,november,1,2018
+20,france,kidnapped,january,0,2017
+90,france,kidnapped,february,0,2017
+160,france,kidnapped,march,0,2017
+230,france,kidnapped,april,0,2017
+300,france,kidnapped,may,0,2017
+370,france,kidnapped,june,0,2017
+440,france,kidnapped,july,0,2017
+510,france,kidnapped,august,0,2017
+580,france,kidnapped,september,0,2017
+650,france,kidnapped,october,0,2017
+720,france,kidnapped,november,0,2017
+790,france,kidnapped,december,0,2017
+860,france,killed,january,0,2017
+930,france,killed,february,0,2017
+1000,france,killed,march,0,2017
+1070,france,killed,april,0,2017
+1140,france,killed,may,0,2017
+1210,france,killed,june,0,2017
+1280,france,killed,july,0,2017
+1350,france,killed,august,0,2017
+1420,france,killed,september,0,2017
+1490,france,killed,october,0,2017
+1560,france,killed,november,0,2017
+1630,france,killed,december,0,2017
+1700,france,arrested,january,0,2017
+1770,france,arrested,february,0,2017
+1840,france,arrested,march,0,2017
+1910,france,arrested,april,0,2017
+1980,france,arrested,may,0,2017
+2050,france,arrested,june,0,2017
+2120,france,arrested,july,0,2017
+2190,france,arrested,august,0,2017
+2260,france,arrested,september,0,2017
+2330,france,arrested,october,0,2017
+2400,france,arrested,november,0,2017
+2470,france,arrested,december,0,2017
+21,ghana,kidnapped,january,0,2017
+91,ghana,kidnapped,february,0,2017
+161,ghana,kidnapped,march,0,2017
+231,ghana,kidnapped,april,0,2017
+301,ghana,kidnapped,may,0,2017
+371,ghana,kidnapped,june,0,2017
+441,ghana,kidnapped,july,0,2017
+511,ghana,kidnapped,august,0,2017
+581,ghana,kidnapped,september,0,2017
+651,ghana,kidnapped,october,0,2017
+721,ghana,kidnapped,november,0,2017
+791,ghana,kidnapped,december,0,2017
+861,ghana,killed,january,0,2017
+931,ghana,killed,february,0,2017
+1001,ghana,killed,march,0,2017
+1071,ghana,killed,april,0,2017
+1141,ghana,killed,may,0,2017
+1211,ghana,killed,june,0,2017
+1281,ghana,killed,july,0,2017
+1351,ghana,killed,august,0,2017
+1421,ghana,killed,september,0,2017
+1491,ghana,killed,october,0,2017
+1561,ghana,killed,november,0,2017
+1631,ghana,killed,december,0,2017
+1701,ghana,arrested,january,0,2017
+1771,ghana,arrested,february,0,2017
+1841,ghana,arrested,march,0,2017
+1911,ghana,arrested,april,0,2017
+1981,ghana,arrested,may,0,2017
+2051,ghana,arrested,june,0,2017
+2121,ghana,arrested,july,0,2017
+2191,ghana,arrested,august,0,2017
+2261,ghana,arrested,september,0,2017
+2331,ghana,arrested,october,0,2017
+2401,ghana,arrested,november,0,2017
+2471,ghana,arrested,december,0,2017
+22,greece,kidnapped,january,0,2017
+92,greece,kidnapped,february,0,2017
+162,greece,kidnapped,march,0,2017
+232,greece,kidnapped,april,0,2017
+302,greece,kidnapped,may,0,2017
+372,greece,kidnapped,june,0,2017
+442,greece,kidnapped,july,0,2017
+512,greece,kidnapped,august,0,2017
+582,greece,kidnapped,september,0,2017
+652,greece,kidnapped,october,0,2017
+722,greece,kidnapped,november,0,2017
+792,greece,kidnapped,december,0,2017
+862,greece,killed,january,0,2017
+932,greece,killed,february,0,2017
+1002,greece,killed,march,0,2017
+1072,greece,killed,april,0,2017
+1142,greece,killed,may,0,2017
+1212,greece,killed,june,0,2017
+1282,greece,killed,july,0,2017
+1352,greece,killed,august,0,2017
+1422,greece,killed,september,0,2017
+1492,greece,killed,october,0,2017
+1562,greece,killed,november,0,2017
+1632,greece,killed,december,0,2017
+1702,greece,arrested,january,0,2017
+1772,greece,arrested,february,0,2017
+1842,greece,arrested,march,0,2017
+1912,greece,arrested,april,0,2017
+1982,greece,arrested,may,0,2017
+2052,greece,arrested,june,0,2017
+2122,greece,arrested,july,0,2017
+2192,greece,arrested,august,0,2017
+2262,greece,arrested,september,0,2017
+2332,greece,arrested,october,0,2017
+2402,greece,arrested,november,0,2017
+2472,greece,arrested,december,0,2017
+2715,greece,killed,august,0,2018
+2964,greece,kidnapped,august,0,2018
+3213,greece,arrested,august,1,2018
+23,guatemala,kidnapped,january,0,2017
+93,guatemala,kidnapped,february,0,2017
+163,guatemala,kidnapped,march,1,2017
+233,guatemala,kidnapped,april,0,2017
+303,guatemala,kidnapped,may,0,2017
+373,guatemala,kidnapped,june,0,2017
+443,guatemala,kidnapped,july,0,2017
+513,guatemala,kidnapped,august,0,2017
+583,guatemala,kidnapped,september,0,2017
+653,guatemala,kidnapped,october,0,2017
+723,guatemala,kidnapped,november,0,2017
+793,guatemala,kidnapped,december,0,2017
+863,guatemala,killed,january,0,2017
+933,guatemala,killed,february,0,2017
+1003,guatemala,killed,march,0,2017
+1073,guatemala,killed,april,0,2017
+1143,guatemala,killed,may,0,2017
+1213,guatemala,killed,june,0,2017
+1283,guatemala,killed,july,0,2017
+1353,guatemala,killed,august,0,2017
+1423,guatemala,killed,september,0,2017
+1493,guatemala,killed,october,0,2017
+1563,guatemala,killed,november,0,2017
+1633,guatemala,killed,december,0,2017
+1703,guatemala,arrested,january,0,2017
+1773,guatemala,arrested,february,0,2017
+1843,guatemala,arrested,march,0,2017
+1913,guatemala,arrested,april,0,2017
+1983,guatemala,arrested,may,0,2017
+2053,guatemala,arrested,june,0,2017
+2123,guatemala,arrested,july,0,2017
+2193,guatemala,arrested,august,0,2017
+2263,guatemala,arrested,september,0,2017
+2333,guatemala,arrested,october,0,2017
+2403,guatemala,arrested,november,0,2017
+2473,guatemala,arrested,december,0,2017
+2556,guatemala,killed,february,0,2018
+2722,guatemala,killed,september,0,2018
+2805,guatemala,kidnapped,february,0,2018
+2971,guatemala,kidnapped,september,1,2018
+3054,guatemala,arrested,february,1,2018
+3220,guatemala,arrested,september,0,2018
+3301,guatemala,killed,april,4,2019
+3352,guatemala,kidnapped,april,0,2019
+3403,guatemala,arrested,april,0,2019
+24,guinea,kidnapped,january,0,2017
+94,guinea,kidnapped,february,0,2017
+164,guinea,kidnapped,march,0,2017
+234,guinea,kidnapped,april,0,2017
+304,guinea,kidnapped,may,0,2017
+374,guinea,kidnapped,june,0,2017
+444,guinea,kidnapped,july,0,2017
+514,guinea,kidnapped,august,0,2017
+584,guinea,kidnapped,september,0,2017
+654,guinea,kidnapped,october,0,2017
+724,guinea,kidnapped,november,0,2017
+794,guinea,kidnapped,december,0,2017
+864,guinea,killed,january,0,2017
+934,guinea,killed,february,0,2017
+1004,guinea,killed,march,0,2017
+1074,guinea,killed,april,0,2017
+1144,guinea,killed,may,0,2017
+1214,guinea,killed,june,0,2017
+1284,guinea,killed,july,0,2017
+1354,guinea,killed,august,0,2017
+1424,guinea,killed,september,0,2017
+1494,guinea,killed,october,0,2017
+1564,guinea,killed,november,0,2017
+1634,guinea,killed,december,0,2017
+1704,guinea,arrested,january,0,2017
+1774,guinea,arrested,february,0,2017
+1844,guinea,arrested,march,0,2017
+1914,guinea,arrested,april,0,2017
+1984,guinea,arrested,may,0,2017
+2054,guinea,arrested,june,0,2017
+2124,guinea,arrested,july,0,2017
+2194,guinea,arrested,august,0,2017
+2264,guinea,arrested,september,0,2017
+2334,guinea,arrested,october,0,2017
+2404,guinea,arrested,november,0,2017
+2474,guinea,arrested,december,0,2017
+25,haiti,kidnapped,january,0,2017
+95,haiti,kidnapped,february,0,2017
+165,haiti,kidnapped,march,0,2017
+235,haiti,kidnapped,april,0,2017
+305,haiti,kidnapped,may,0,2017
+375,haiti,kidnapped,june,0,2017
+445,haiti,kidnapped,july,0,2017
+515,haiti,kidnapped,august,0,2017
+585,haiti,kidnapped,september,1,2017
+655,haiti,kidnapped,october,0,2017
+725,haiti,kidnapped,november,0,2017
+795,haiti,kidnapped,december,0,2017
+865,haiti,killed,january,0,2017
+935,haiti,killed,february,0,2017
+1005,haiti,killed,march,0,2017
+1075,haiti,killed,april,0,2017
+1145,haiti,killed,may,0,2017
+1215,haiti,killed,june,0,2017
+1285,haiti,killed,july,0,2017
+1355,haiti,killed,august,0,2017
+1425,haiti,killed,september,0,2017
+1495,haiti,killed,october,0,2017
+1565,haiti,killed,november,0,2017
+1635,haiti,killed,december,0,2017
+1705,haiti,arrested,january,0,2017
+1775,haiti,arrested,february,0,2017
+1845,haiti,arrested,march,0,2017
+1915,haiti,arrested,april,0,2017
+1985,haiti,arrested,may,0,2017
+2055,haiti,arrested,june,0,2017
+2125,haiti,arrested,july,0,2017
+2195,haiti,arrested,august,0,2017
+2265,haiti,arrested,september,0,2017
+2335,haiti,arrested,october,0,2017
+2405,haiti,arrested,november,0,2017
+2475,haiti,arrested,december,0,2017
+3284,haiti,killed,march,0,2019
+3302,haiti,killed,april,1,2019
+3335,haiti,kidnapped,march,2,2019
+3353,haiti,kidnapped,april,0,2019
+3386,haiti,arrested,march,0,2019
+3404,haiti,arrested,april,0,2019
+26,honduras,kidnapped,january,0,2017
+96,honduras,kidnapped,february,0,2017
+166,honduras,kidnapped,march,0,2017
+236,honduras,kidnapped,april,0,2017
+306,honduras,kidnapped,may,0,2017
+376,honduras,kidnapped,june,0,2017
+446,honduras,kidnapped,july,0,2017
+516,honduras,kidnapped,august,0,2017
+586,honduras,kidnapped,september,0,2017
+656,honduras,kidnapped,october,0,2017
+726,honduras,kidnapped,november,0,2017
+796,honduras,kidnapped,december,0,2017
+866,honduras,killed,january,0,2017
+936,honduras,killed,february,0,2017
+1006,honduras,killed,march,0,2017
+1076,honduras,killed,april,0,2017
+1146,honduras,killed,may,0,2017
+1216,honduras,killed,june,0,2017
+1286,honduras,killed,july,0,2017
+1356,honduras,killed,august,0,2017
+1426,honduras,killed,september,0,2017
+1496,honduras,killed,october,0,2017
+1566,honduras,killed,november,0,2017
+1636,honduras,killed,december,0,2017
+1706,honduras,arrested,january,0,2017
+1776,honduras,arrested,february,0,2017
+1846,honduras,arrested,march,0,2017
+1916,honduras,arrested,april,0,2017
+1986,honduras,arrested,may,0,2017
+2056,honduras,arrested,june,0,2017
+2126,honduras,arrested,july,0,2017
+2196,honduras,arrested,august,0,2017
+2266,honduras,arrested,september,0,2017
+2336,honduras,arrested,october,0,2017
+2406,honduras,arrested,november,0,2017
+2476,honduras,arrested,december,0,2017
+27,india,kidnapped,january,0,2017
+97,india,kidnapped,february,0,2017
+167,india,kidnapped,march,0,2017
+237,india,kidnapped,april,0,2017
+307,india,kidnapped,may,0,2017
+377,india,kidnapped,june,0,2017
+447,india,kidnapped,july,0,2017
+517,india,kidnapped,august,0,2017
+587,india,kidnapped,september,0,2017
+657,india,kidnapped,october,0,2017
+727,india,kidnapped,november,0,2017
+797,india,kidnapped,december,0,2017
+867,india,killed,january,0,2017
+937,india,killed,february,0,2017
+1007,india,killed,march,0,2017
+1077,india,killed,april,0,2017
+1147,india,killed,may,0,2017
+1217,india,killed,june,0,2017
+1287,india,killed,july,0,2017
+1357,india,killed,august,0,2017
+1427,india,killed,september,0,2017
+1497,india,killed,october,0,2017
+1567,india,killed,november,0,2017
+1637,india,killed,december,0,2017
+1707,india,arrested,january,0,2017
+1777,india,arrested,february,0,2017
+1847,india,arrested,march,0,2017
+1917,india,arrested,april,0,2017
+1987,india,arrested,may,0,2017
+2057,india,arrested,june,0,2017
+2127,india,arrested,july,0,2017
+2197,india,arrested,august,0,2017
+2267,india,arrested,september,0,2017
+2337,india,arrested,october,0,2017
+2407,india,arrested,november,0,2017
+2477,india,arrested,december,0,2017
+28,indonesia,kidnapped,january,0,2017
+98,indonesia,kidnapped,february,0,2017
+168,indonesia,kidnapped,march,0,2017
+238,indonesia,kidnapped,april,0,2017
+308,indonesia,kidnapped,may,0,2017
+378,indonesia,kidnapped,june,0,2017
+448,indonesia,kidnapped,july,0,2017
+518,indonesia,kidnapped,august,0,2017
+588,indonesia,kidnapped,september,0,2017
+658,indonesia,kidnapped,october,0,2017
+728,indonesia,kidnapped,november,0,2017
+798,indonesia,kidnapped,december,0,2017
+868,indonesia,killed,january,0,2017
+938,indonesia,killed,february,0,2017
+1008,indonesia,killed,march,0,2017
+1078,indonesia,killed,april,0,2017
+1148,indonesia,killed,may,0,2017
+1218,indonesia,killed,june,0,2017
+1288,indonesia,killed,july,0,2017
+1358,indonesia,killed,august,0,2017
+1428,indonesia,killed,september,0,2017
+1498,indonesia,killed,october,0,2017
+1568,indonesia,killed,november,0,2017
+1638,indonesia,killed,december,0,2017
+1708,indonesia,arrested,january,0,2017
+1778,indonesia,arrested,february,0,2017
+1848,indonesia,arrested,march,0,2017
+1918,indonesia,arrested,april,0,2017
+1988,indonesia,arrested,may,0,2017
+2058,indonesia,arrested,june,0,2017
+2128,indonesia,arrested,july,0,2017
+2198,indonesia,arrested,august,0,2017
+2268,indonesia,arrested,september,0,2017
+2338,indonesia,arrested,october,0,2017
+2408,indonesia,arrested,november,0,2017
+2478,indonesia,arrested,december,0,2017
+3283,iraq,killed,january,0,2019
+3334,iraq,kidnapped,january,0,2019
+3385,iraq,arrested,january,1,2019
+29,iraq / kri,kidnapped,january,0,2017
+99,iraq / kri,kidnapped,february,0,2017
+169,iraq / kri,kidnapped,march,0,2017
+239,iraq / kri,kidnapped,april,0,2017
+309,iraq / kri,kidnapped,may,0,2017
+379,iraq / kri,kidnapped,june,0,2017
+449,iraq / kri,kidnapped,july,0,2017
+519,iraq / kri,kidnapped,august,0,2017
+589,iraq / kri,kidnapped,september,0,2017
+659,iraq / kri,kidnapped,october,0,2017
+729,iraq / kri,kidnapped,november,0,2017
+799,iraq / kri,kidnapped,december,0,2017
+869,iraq / kri,killed,january,0,2017
+939,iraq / kri,killed,february,0,2017
+1009,iraq / kri,killed,march,0,2017
+1079,iraq / kri,killed,april,0,2017
+1149,iraq / kri,killed,may,0,2017
+1219,iraq / kri,killed,june,0,2017
+1289,iraq / kri,killed,july,0,2017
+1359,iraq / kri,killed,august,0,2017
+1429,iraq / kri,killed,september,0,2017
+1499,iraq / kri,killed,october,0,2017
+1569,iraq / kri,killed,november,0,2017
+1639,iraq / kri,killed,december,0,2017
+1709,iraq / kri,arrested,january,1,2017
+1779,iraq / kri,arrested,february,0,2017
+1849,iraq / kri,arrested,march,0,2017
+1919,iraq / kri,arrested,april,0,2017
+1989,iraq / kri,arrested,may,0,2017
+2059,iraq / kri,arrested,june,0,2017
+2129,iraq / kri,arrested,july,0,2017
+2199,iraq / kri,arrested,august,0,2017
+2269,iraq / kri,arrested,september,0,2017
+2339,iraq / kri,arrested,october,0,2017
+2409,iraq / kri,arrested,november,1,2017
+2479,iraq / kri,arrested,december,0,2017
+2585,iraq/kri,killed,march,0,2018
+2623,iraq/kri,killed,april,0,2018
+2655,iraq/kri,killed,may,0,2018
+2702,iraq/kri,killed,july,0,2018
+2750,iraq/kri,killed,november,0,2018
+2834,iraq/kri,kidnapped,march,0,2018
+2872,iraq/kri,kidnapped,april,0,2018
+2904,iraq/kri,kidnapped,may,0,2018
+2951,iraq/kri,kidnapped,july,0,2018
+2999,iraq/kri,kidnapped,november,0,2018
+3083,iraq/kri,arrested,march,1,2018
+3121,iraq/kri,arrested,april,1,2018
+3153,iraq/kri,arrested,may,1,2018
+3200,iraq/kri,arrested,july,1,2018
+3248,iraq/kri,arrested,november,5,2018
+30,israel,kidnapped,january,0,2017
+100,israel,kidnapped,february,0,2017
+170,israel,kidnapped,march,0,2017
+240,israel,kidnapped,april,0,2017
+310,israel,kidnapped,may,0,2017
+380,israel,kidnapped,june,0,2017
+450,israel,kidnapped,july,0,2017
+520,israel,kidnapped,august,0,2017
+590,israel,kidnapped,september,0,2017
+660,israel,kidnapped,october,0,2017
+730,israel,kidnapped,november,0,2017
+800,israel,kidnapped,december,0,2017
+870,israel,killed,january,0,2017
+940,israel,killed,february,0,2017
+1010,israel,killed,march,0,2017
+1080,israel,killed,april,0,2017
+1150,israel,killed,may,0,2017
+1220,israel,killed,june,0,2017
+1290,israel,killed,july,0,2017
+1360,israel,killed,august,0,2017
+1430,israel,killed,september,0,2017
+1500,israel,killed,october,0,2017
+1570,israel,killed,november,0,2017
+1640,israel,killed,december,0,2017
+1710,israel,arrested,january,1,2017
+1780,israel,arrested,february,1,2017
+1850,israel,arrested,march,0,2017
+1920,israel,arrested,april,0,2017
+1990,israel,arrested,may,0,2017
+2060,israel,arrested,june,0,2017
+2130,israel,arrested,july,0,2017
+2200,israel,arrested,august,0,2017
+2270,israel,arrested,september,0,2017
+2340,israel,arrested,october,0,2017
+2410,israel,arrested,november,0,2017
+2480,israel,arrested,december,0,2017
+31,jordan,kidnapped,january,0,2017
+101,jordan,kidnapped,february,0,2017
+171,jordan,kidnapped,march,0,2017
+241,jordan,kidnapped,april,0,2017
+311,jordan,kidnapped,may,0,2017
+381,jordan,kidnapped,june,0,2017
+451,jordan,kidnapped,july,0,2017
+521,jordan,kidnapped,august,0,2017
+591,jordan,kidnapped,september,0,2017
+661,jordan,kidnapped,october,0,2017
+731,jordan,kidnapped,november,0,2017
+801,jordan,kidnapped,december,0,2017
+871,jordan,killed,january,0,2017
+941,jordan,killed,february,0,2017
+1011,jordan,killed,march,0,2017
+1081,jordan,killed,april,0,2017
+1151,jordan,killed,may,0,2017
+1221,jordan,killed,june,0,2017
+1291,jordan,killed,july,0,2017
+1361,jordan,killed,august,0,2017
+1431,jordan,killed,september,0,2017
+1501,jordan,killed,october,0,2017
+1571,jordan,killed,november,0,2017
+1641,jordan,killed,december,0,2017
+1711,jordan,arrested,january,1,2017
+1781,jordan,arrested,february,0,2017
+1851,jordan,arrested,march,0,2017
+1921,jordan,arrested,april,0,2017
+1991,jordan,arrested,may,0,2017
+2061,jordan,arrested,june,1,2017
+2131,jordan,arrested,july,0,2017
+2201,jordan,arrested,august,0,2017
+2271,jordan,arrested,september,0,2017
+2341,jordan,arrested,october,0,2017
+2411,jordan,arrested,november,0,2017
+2481,jordan,arrested,december,0,2017
+2586,jordan,killed,march,0,2018
+2835,jordan,kidnapped,march,0,2018
+3084,jordan,arrested,march,1,2018
+32,kenya,kidnapped,january,0,2017
+102,kenya,kidnapped,february,0,2017
+172,kenya,kidnapped,march,0,2017
+242,kenya,kidnapped,april,0,2017
+312,kenya,kidnapped,may,0,2017
+382,kenya,kidnapped,june,0,2017
+452,kenya,kidnapped,july,0,2017
+522,kenya,kidnapped,august,0,2017
+592,kenya,kidnapped,september,0,2017
+662,kenya,kidnapped,october,0,2017
+732,kenya,kidnapped,november,0,2017
+802,kenya,kidnapped,december,0,2017
+872,kenya,killed,january,0,2017
+942,kenya,killed,february,0,2017
+1012,kenya,killed,march,0,2017
+1082,kenya,killed,april,0,2017
+1152,kenya,killed,may,0,2017
+1222,kenya,killed,june,4,2017
+1292,kenya,killed,july,0,2017
+1362,kenya,killed,august,0,2017
+1432,kenya,killed,september,0,2017
+1502,kenya,killed,october,0,2017
+1572,kenya,killed,november,0,2017
+1642,kenya,killed,december,0,2017
+1712,kenya,arrested,january,0,2017
+1782,kenya,arrested,february,0,2017
+1852,kenya,arrested,march,1,2017
+1922,kenya,arrested,april,2,2017
+1992,kenya,arrested,may,0,2017
+2062,kenya,arrested,june,0,2017
+2132,kenya,arrested,july,0,2017
+2202,kenya,arrested,august,1,2017
+2272,kenya,arrested,september,0,2017
+2342,kenya,arrested,october,0,2017
+2412,kenya,arrested,november,0,2017
+2482,kenya,arrested,december,0,2017
+2587,kenya,killed,march,0,2018
+2673,kenya,killed,june,0,2018
+2674,kenya,killed,june,0,2018
+2723,kenya,killed,september,0,2018
+2751,kenya,killed,november,0,2018
+2836,kenya,kidnapped,march,1,2018
+2922,kenya,kidnapped,june,0,2018
+2923,kenya,kidnapped,june,0,2018
+2972,kenya,kidnapped,september,0,2018
+3000,kenya,kidnapped,november,1,2018
+3085,kenya,arrested,march,0,2018
+3171,kenya,arrested,june,1,2018
+3172,kenya,arrested,june,1,2018
+3221,kenya,arrested,september,2,2018
+3249,kenya,arrested,november,0,2018
+3271,kenya,killed,january,2,2019
+3297,kenya,killed,april,1,2019
+3298,kenya,killed,april,1,2019
+3322,kenya,kidnapped,january,0,2019
+3348,kenya,kidnapped,april,0,2019
+3349,kenya,kidnapped,april,0,2019
+3373,kenya,arrested,january,0,2019
+3399,kenya,arrested,april,0,2019
+3400,kenya,arrested,april,0,2019
+33,lebanon,kidnapped,january,0,2017
+103,lebanon,kidnapped,february,0,2017
+173,lebanon,kidnapped,march,0,2017
+243,lebanon,kidnapped,april,0,2017
+313,lebanon,kidnapped,may,0,2017
+383,lebanon,kidnapped,june,0,2017
+453,lebanon,kidnapped,july,0,2017
+523,lebanon,kidnapped,august,0,2017
+593,lebanon,kidnapped,september,0,2017
+663,lebanon,kidnapped,october,0,2017
+733,lebanon,kidnapped,november,0,2017
+803,lebanon,kidnapped,december,0,2017
+873,lebanon,killed,january,0,2017
+943,lebanon,killed,february,0,2017
+1013,lebanon,killed,march,0,2017
+1083,lebanon,killed,april,0,2017
+1153,lebanon,killed,may,0,2017
+1223,lebanon,killed,june,0,2017
+1293,lebanon,killed,july,0,2017
+1363,lebanon,killed,august,0,2017
+1433,lebanon,killed,september,0,2017
+1503,lebanon,killed,october,0,2017
+1573,lebanon,killed,november,0,2017
+1643,lebanon,killed,december,0,2017
+1713,lebanon,arrested,january,0,2017
+1783,lebanon,arrested,february,1,2017
+1853,lebanon,arrested,march,1,2017
+1923,lebanon,arrested,april,0,2017
+1993,lebanon,arrested,may,0,2017
+2063,lebanon,arrested,june,0,2017
+2133,lebanon,arrested,july,0,2017
+2203,lebanon,arrested,august,0,2017
+2273,lebanon,arrested,september,1,2017
+2343,lebanon,arrested,october,0,2017
+2413,lebanon,arrested,november,0,2017
+2483,lebanon,arrested,december,0,2017
+2527,lebanon,killed,january,0,2018
+2528,lebanon,killed,january,0,2018
+2557,lebanon,killed,february,0,2018
+2675,lebanon,killed,june,0,2018
+2764,lebanon,killed,december,0,2018
+2776,lebanon,kidnapped,january,0,2018
+2777,lebanon,kidnapped,january,0,2018
+2806,lebanon,kidnapped,february,0,2018
+2924,lebanon,kidnapped,june,0,2018
+3013,lebanon,kidnapped,december,0,2018
+3025,lebanon,arrested,january,1,2018
+3026,lebanon,arrested,january,1,2018
+3055,lebanon,arrested,february,1,2018
+3173,lebanon,arrested,june,1,2018
+3262,lebanon,arrested,december,1,2018
+34,liberia,kidnapped,january,0,2017
+104,liberia,kidnapped,february,0,2017
+174,liberia,kidnapped,march,0,2017
+244,liberia,kidnapped,april,0,2017
+314,liberia,kidnapped,may,0,2017
+384,liberia,kidnapped,june,0,2017
+454,liberia,kidnapped,july,0,2017
+524,liberia,kidnapped,august,0,2017
+594,liberia,kidnapped,september,0,2017
+664,liberia,kidnapped,october,0,2017
+734,liberia,kidnapped,november,0,2017
+804,liberia,kidnapped,december,0,2017
+874,liberia,killed,january,0,2017
+944,liberia,killed,february,0,2017
+1014,liberia,killed,march,0,2017
+1084,liberia,killed,april,0,2017
+1154,liberia,killed,may,0,2017
+1224,liberia,killed,june,0,2017
+1294,liberia,killed,july,0,2017
+1364,liberia,killed,august,0,2017
+1434,liberia,killed,september,0,2017
+1504,liberia,killed,october,0,2017
+1574,liberia,killed,november,0,2017
+1644,liberia,killed,december,0,2017
+1714,liberia,arrested,january,0,2017
+1784,liberia,arrested,february,0,2017
+1854,liberia,arrested,march,0,2017
+1924,liberia,arrested,april,0,2017
+1994,liberia,arrested,may,0,2017
+2064,liberia,arrested,june,0,2017
+2134,liberia,arrested,july,0,2017
+2204,liberia,arrested,august,0,2017
+2274,liberia,arrested,september,0,2017
+2344,liberia,arrested,october,0,2017
+2414,liberia,arrested,november,0,2017
+2484,liberia,arrested,december,0,2017
+35,libya,kidnapped,january,0,2017
+105,libya,kidnapped,february,0,2017
+175,libya,kidnapped,march,0,2017
+245,libya,kidnapped,april,0,2017
+315,libya,kidnapped,may,0,2017
+385,libya,kidnapped,june,7,2017
+455,libya,kidnapped,july,0,2017
+525,libya,kidnapped,august,0,2017
+595,libya,kidnapped,september,0,2017
+665,libya,kidnapped,october,0,2017
+735,libya,kidnapped,november,0,2017
+805,libya,kidnapped,december,0,2017
+875,libya,killed,january,0,2017
+945,libya,killed,february,0,2017
+1015,libya,killed,march,0,2017
+1085,libya,killed,april,0,2017
+1155,libya,killed,may,0,2017
+1225,libya,killed,june,0,2017
+1295,libya,killed,july,0,2017
+1365,libya,killed,august,0,2017
+1435,libya,killed,september,0,2017
+1505,libya,killed,october,0,2017
+1575,libya,killed,november,0,2017
+1645,libya,killed,december,0,2017
+1715,libya,arrested,january,0,2017
+1785,libya,arrested,february,0,2017
+1855,libya,arrested,march,0,2017
+1925,libya,arrested,april,0,2017
+1995,libya,arrested,may,0,2017
+2065,libya,arrested,june,0,2017
+2135,libya,arrested,july,0,2017
+2205,libya,arrested,august,0,2017
+2275,libya,arrested,september,0,2017
+2345,libya,arrested,october,0,2017
+2415,libya,arrested,november,0,2017
+2485,libya,arrested,december,0,2017
+2529,libya,killed,january,0,2018
+2778,libya,kidnapped,january,2,2018
+3027,libya,arrested,january,0,2018
+36,madagascar,kidnapped,january,0,2017
+106,madagascar,kidnapped,february,0,2017
+176,madagascar,kidnapped,march,0,2017
+246,madagascar,kidnapped,april,0,2017
+316,madagascar,kidnapped,may,0,2017
+386,madagascar,kidnapped,june,0,2017
+456,madagascar,kidnapped,july,0,2017
+526,madagascar,kidnapped,august,0,2017
+596,madagascar,kidnapped,september,0,2017
+666,madagascar,kidnapped,october,0,2017
+736,madagascar,kidnapped,november,0,2017
+806,madagascar,kidnapped,december,0,2017
+876,madagascar,killed,january,0,2017
+946,madagascar,killed,february,0,2017
+1016,madagascar,killed,march,0,2017
+1086,madagascar,killed,april,0,2017
+1156,madagascar,killed,may,0,2017
+1226,madagascar,killed,june,0,2017
+1296,madagascar,killed,july,0,2017
+1366,madagascar,killed,august,0,2017
+1436,madagascar,killed,september,0,2017
+1506,madagascar,killed,october,0,2017
+1576,madagascar,killed,november,0,2017
+1646,madagascar,killed,december,0,2017
+1716,madagascar,arrested,january,0,2017
+1786,madagascar,arrested,february,0,2017
+1856,madagascar,arrested,march,0,2017
+1926,madagascar,arrested,april,0,2017
+1996,madagascar,arrested,may,0,2017
+2066,madagascar,arrested,june,0,2017
+2136,madagascar,arrested,july,0,2017
+2206,madagascar,arrested,august,0,2017
+2276,madagascar,arrested,september,0,2017
+2346,madagascar,arrested,october,0,2017
+2416,madagascar,arrested,november,0,2017
+2486,madagascar,arrested,december,0,2017
+37,malawi,kidnapped,january,0,2017
+107,malawi,kidnapped,february,0,2017
+177,malawi,kidnapped,march,0,2017
+247,malawi,kidnapped,april,0,2017
+317,malawi,kidnapped,may,0,2017
+387,malawi,kidnapped,june,0,2017
+457,malawi,kidnapped,july,0,2017
+527,malawi,kidnapped,august,0,2017
+597,malawi,kidnapped,september,0,2017
+667,malawi,kidnapped,october,0,2017
+737,malawi,kidnapped,november,0,2017
+807,malawi,kidnapped,december,0,2017
+877,malawi,killed,january,0,2017
+947,malawi,killed,february,0,2017
+1017,malawi,killed,march,0,2017
+1087,malawi,killed,april,0,2017
+1157,malawi,killed,may,0,2017
+1227,malawi,killed,june,0,2017
+1297,malawi,killed,july,0,2017
+1367,malawi,killed,august,0,2017
+1437,malawi,killed,september,0,2017
+1507,malawi,killed,october,0,2017
+1577,malawi,killed,november,0,2017
+1647,malawi,killed,december,0,2017
+1717,malawi,arrested,january,0,2017
+1787,malawi,arrested,february,0,2017
+1857,malawi,arrested,march,0,2017
+1927,malawi,arrested,april,0,2017
+1997,malawi,arrested,may,0,2017
+2067,malawi,arrested,june,0,2017
+2137,malawi,arrested,july,0,2017
+2207,malawi,arrested,august,0,2017
+2277,malawi,arrested,september,0,2017
+2347,malawi,arrested,october,0,2017
+2417,malawi,arrested,november,0,2017
+2487,malawi,arrested,december,0,2017
+38,malaysia,kidnapped,january,0,2017
+108,malaysia,kidnapped,february,0,2017
+178,malaysia,kidnapped,march,0,2017
+248,malaysia,kidnapped,april,0,2017
+318,malaysia,kidnapped,may,0,2017
+388,malaysia,kidnapped,june,0,2017
+458,malaysia,kidnapped,july,0,2017
+528,malaysia,kidnapped,august,0,2017
+598,malaysia,kidnapped,september,0,2017
+668,malaysia,kidnapped,october,0,2017
+738,malaysia,kidnapped,november,0,2017
+808,malaysia,kidnapped,december,0,2017
+878,malaysia,killed,january,0,2017
+948,malaysia,killed,february,0,2017
+1018,malaysia,killed,march,0,2017
+1088,malaysia,killed,april,0,2017
+1158,malaysia,killed,may,0,2017
+1228,malaysia,killed,june,0,2017
+1298,malaysia,killed,july,0,2017
+1368,malaysia,killed,august,0,2017
+1438,malaysia,killed,september,0,2017
+1508,malaysia,killed,october,0,2017
+1578,malaysia,killed,november,0,2017
+1648,malaysia,killed,december,0,2017
+1718,malaysia,arrested,january,0,2017
+1788,malaysia,arrested,february,0,2017
+1858,malaysia,arrested,march,0,2017
+1928,malaysia,arrested,april,0,2017
+1998,malaysia,arrested,may,0,2017
+2068,malaysia,arrested,june,0,2017
+2138,malaysia,arrested,july,1,2017
+2208,malaysia,arrested,august,0,2017
+2278,malaysia,arrested,september,0,2017
+2348,malaysia,arrested,october,0,2017
+2418,malaysia,arrested,november,0,2017
+2488,malaysia,arrested,december,0,2017
+39,mali,kidnapped,january,0,2017
+109,mali,kidnapped,february,0,2017
+179,mali,kidnapped,march,0,2017
+249,mali,kidnapped,april,0,2017
+319,mali,kidnapped,may,4,2017
+389,mali,kidnapped,june,0,2017
+459,mali,kidnapped,july,0,2017
+529,mali,kidnapped,august,0,2017
+599,mali,kidnapped,september,0,2017
+669,mali,kidnapped,october,0,2017
+739,mali,kidnapped,november,0,2017
+809,mali,kidnapped,december,0,2017
+879,mali,killed,january,1,2017
+949,mali,killed,february,0,2017
+1019,mali,killed,march,0,2017
+1089,mali,killed,april,0,2017
+1159,mali,killed,may,0,2017
+1229,mali,killed,june,0,2017
+1299,mali,killed,july,0,2017
+1369,mali,killed,august,2,2017
+1439,mali,killed,september,0,2017
+1509,mali,killed,october,1,2017
+1579,mali,killed,november,0,2017
+1649,mali,killed,december,0,2017
+1719,mali,arrested,january,0,2017
+1789,mali,arrested,february,0,2017
+1859,mali,arrested,march,0,2017
+1929,mali,arrested,april,0,2017
+1999,mali,arrested,may,1,2017
+2069,mali,arrested,june,0,2017
+2139,mali,arrested,july,1,2017
+2209,mali,arrested,august,0,2017
+2279,mali,arrested,september,0,2017
+2349,mali,arrested,october,0,2017
+2419,mali,arrested,november,0,2017
+2489,mali,arrested,december,0,2017
+2588,mali,killed,march,1,2018
+2589,mali,killed,march,0,2018
+2624,mali,killed,april,0,2018
+2716,mali,killed,august,0,2018
+2724,mali,killed,september,0,2018
+2837,mali,kidnapped,march,0,2018
+2838,mali,kidnapped,march,4,2018
+2873,mali,kidnapped,april,0,2018
+2965,mali,kidnapped,august,1,2018
+2973,mali,kidnapped,september,1,2018
+3086,mali,arrested,march,0,2018
+3087,mali,arrested,march,0,2018
+3122,mali,arrested,april,1,2018
+3214,mali,arrested,august,0,2018
+3222,mali,arrested,september,0,2018
+3285,mali,killed,january,0,2019
+3286,mali,killed,february,0,2019
+3287,mali,killed,april,0,2019
+3336,mali,kidnapped,january,3,2019
+3337,mali,kidnapped,february,1,2019
+3338,mali,kidnapped,april,3,2019
+3387,mali,arrested,january,0,2019
+3388,mali,arrested,february,0,2019
+3389,mali,arrested,april,0,2019
+40,mauritania,kidnapped,january,0,2017
+110,mauritania,kidnapped,february,0,2017
+180,mauritania,kidnapped,march,0,2017
+250,mauritania,kidnapped,april,0,2017
+320,mauritania,kidnapped,may,0,2017
+390,mauritania,kidnapped,june,0,2017
+460,mauritania,kidnapped,july,0,2017
+530,mauritania,kidnapped,august,0,2017
+600,mauritania,kidnapped,september,0,2017
+670,mauritania,kidnapped,october,0,2017
+740,mauritania,kidnapped,november,0,2017
+810,mauritania,kidnapped,december,0,2017
+880,mauritania,killed,january,0,2017
+950,mauritania,killed,february,0,2017
+1020,mauritania,killed,march,0,2017
+1090,mauritania,killed,april,0,2017
+1160,mauritania,killed,may,0,2017
+1230,mauritania,killed,june,0,2017
+1300,mauritania,killed,july,0,2017
+1370,mauritania,killed,august,0,2017
+1440,mauritania,killed,september,0,2017
+1510,mauritania,killed,october,0,2017
+1580,mauritania,killed,november,0,2017
+1650,mauritania,killed,december,0,2017
+1720,mauritania,arrested,january,0,2017
+1790,mauritania,arrested,february,0,2017
+1860,mauritania,arrested,march,0,2017
+1930,mauritania,arrested,april,0,2017
+2000,mauritania,arrested,may,0,2017
+2070,mauritania,arrested,june,0,2017
+2140,mauritania,arrested,july,0,2017
+2210,mauritania,arrested,august,0,2017
+2280,mauritania,arrested,september,0,2017
+2350,mauritania,arrested,october,0,2017
+2420,mauritania,arrested,november,0,2017
+2490,mauritania,arrested,december,0,2017
+41,mexico,kidnapped,january,0,2017
+111,mexico,kidnapped,february,0,2017
+181,mexico,kidnapped,march,0,2017
+251,mexico,kidnapped,april,2,2017
+321,mexico,kidnapped,may,0,2017
+391,mexico,kidnapped,june,0,2017
+461,mexico,kidnapped,july,0,2017
+531,mexico,kidnapped,august,0,2017
+601,mexico,kidnapped,september,0,2017
+671,mexico,kidnapped,october,0,2017
+741,mexico,kidnapped,november,0,2017
+811,mexico,kidnapped,december,0,2017
+881,mexico,killed,january,2,2017
+951,mexico,killed,february,0,2017
+1021,mexico,killed,march,0,2017
+1091,mexico,killed,april,0,2017
+1161,mexico,killed,may,0,2017
+1231,mexico,killed,june,0,2017
+1301,mexico,killed,july,0,2017
+1371,mexico,killed,august,0,2017
+1441,mexico,killed,september,0,2017
+1511,mexico,killed,october,0,2017
+1581,mexico,killed,november,0,2017
+1651,mexico,killed,december,0,2017
+1721,mexico,arrested,january,0,2017
+1791,mexico,arrested,february,0,2017
+1861,mexico,arrested,march,0,2017
+1931,mexico,arrested,april,0,2017
+2001,mexico,arrested,may,0,2017
+2071,mexico,arrested,june,0,2017
+2141,mexico,arrested,july,0,2017
+2211,mexico,arrested,august,0,2017
+2281,mexico,arrested,september,0,2017
+2351,mexico,arrested,october,0,2017
+2421,mexico,arrested,november,0,2017
+2491,mexico,arrested,december,0,2017
+2590,mexico,killed,march,0,2018
+2752,mexico,killed,november,1,2018
+2839,mexico,kidnapped,march,1,2018
+3001,mexico,kidnapped,november,0,2018
+3088,mexico,arrested,march,0,2018
+3250,mexico,arrested,november,0,2018
+3293,mexico,killed,february,1,2019
+3344,mexico,kidnapped,february,0,2019
+3395,mexico,arrested,february,0,2019
+42,mongolia,kidnapped,january,0,2017
+112,mongolia,kidnapped,february,0,2017
+182,mongolia,kidnapped,march,0,2017
+252,mongolia,kidnapped,april,0,2017
+322,mongolia,kidnapped,may,0,2017
+392,mongolia,kidnapped,june,0,2017
+462,mongolia,kidnapped,july,0,2017
+532,mongolia,kidnapped,august,0,2017
+602,mongolia,kidnapped,september,0,2017
+672,mongolia,kidnapped,october,0,2017
+742,mongolia,kidnapped,november,0,2017
+812,mongolia,kidnapped,december,0,2017
+882,mongolia,killed,january,0,2017
+952,mongolia,killed,february,0,2017
+1022,mongolia,killed,march,0,2017
+1092,mongolia,killed,april,0,2017
+1162,mongolia,killed,may,0,2017
+1232,mongolia,killed,june,0,2017
+1302,mongolia,killed,july,0,2017
+1372,mongolia,killed,august,0,2017
+1442,mongolia,killed,september,0,2017
+1512,mongolia,killed,october,0,2017
+1582,mongolia,killed,november,0,2017
+1652,mongolia,killed,december,0,2017
+1722,mongolia,arrested,january,0,2017
+1792,mongolia,arrested,february,0,2017
+1862,mongolia,arrested,march,0,2017
+1932,mongolia,arrested,april,0,2017
+2002,mongolia,arrested,may,0,2017
+2072,mongolia,arrested,june,0,2017
+2142,mongolia,arrested,july,0,2017
+2212,mongolia,arrested,august,0,2017
+2282,mongolia,arrested,september,0,2017
+2352,mongolia,arrested,october,0,2017
+2422,mongolia,arrested,november,0,2017
+2492,mongolia,arrested,december,0,2017
+43,mozambique,kidnapped,january,0,2017
+113,mozambique,kidnapped,february,0,2017
+183,mozambique,kidnapped,march,0,2017
+253,mozambique,kidnapped,april,0,2017
+323,mozambique,kidnapped,may,0,2017
+393,mozambique,kidnapped,june,0,2017
+463,mozambique,kidnapped,july,0,2017
+533,mozambique,kidnapped,august,0,2017
+603,mozambique,kidnapped,september,0,2017
+673,mozambique,kidnapped,october,0,2017
+743,mozambique,kidnapped,november,0,2017
+813,mozambique,kidnapped,december,0,2017
+883,mozambique,killed,january,0,2017
+953,mozambique,killed,february,0,2017
+1023,mozambique,killed,march,0,2017
+1093,mozambique,killed,april,0,2017
+1163,mozambique,killed,may,0,2017
+1233,mozambique,killed,june,0,2017
+1303,mozambique,killed,july,0,2017
+1373,mozambique,killed,august,0,2017
+1443,mozambique,killed,september,0,2017
+1513,mozambique,killed,october,0,2017
+1583,mozambique,killed,november,0,2017
+1653,mozambique,killed,december,0,2017
+1723,mozambique,arrested,january,0,2017
+1793,mozambique,arrested,february,0,2017
+1863,mozambique,arrested,march,0,2017
+1933,mozambique,arrested,april,0,2017
+2003,mozambique,arrested,may,0,2017
+2073,mozambique,arrested,june,0,2017
+2143,mozambique,arrested,july,0,2017
+2213,mozambique,arrested,august,0,2017
+2283,mozambique,arrested,september,0,2017
+2353,mozambique,arrested,october,0,2017
+2423,mozambique,arrested,november,0,2017
+2493,mozambique,arrested,december,0,2017
+44,myanmar,kidnapped,january,0,2017
+114,myanmar,kidnapped,february,0,2017
+184,myanmar,kidnapped,march,1,2017
+254,myanmar,kidnapped,april,0,2017
+324,myanmar,kidnapped,may,0,2017
+394,myanmar,kidnapped,june,0,2017
+464,myanmar,kidnapped,july,0,2017
+534,myanmar,kidnapped,august,0,2017
+604,myanmar,kidnapped,september,0,2017
+674,myanmar,kidnapped,october,0,2017
+744,myanmar,kidnapped,november,0,2017
+814,myanmar,kidnapped,december,0,2017
+884,myanmar,killed,january,0,2017
+954,myanmar,killed,february,0,2017
+1024,myanmar,killed,march,0,2017
+1094,myanmar,killed,april,0,2017
+1164,myanmar,killed,may,0,2017
+1234,myanmar,killed,june,0,2017
+1304,myanmar,killed,july,1,2017
+1374,myanmar,killed,august,0,2017
+1444,myanmar,killed,september,0,2017
+1514,myanmar,killed,october,0,2017
+1584,myanmar,killed,november,0,2017
+1654,myanmar,killed,december,0,2017
+1724,myanmar,arrested,january,0,2017
+1794,myanmar,arrested,february,0,2017
+1864,myanmar,arrested,march,0,2017
+1934,myanmar,arrested,april,0,2017
+2004,myanmar,arrested,may,0,2017
+2074,myanmar,arrested,june,0,2017
+2144,myanmar,arrested,july,0,2017
+2214,myanmar,arrested,august,0,2017
+2284,myanmar,arrested,september,0,2017
+2354,myanmar,arrested,october,0,2017
+2424,myanmar,arrested,november,0,2017
+2494,myanmar,arrested,december,0,2017
+2625,myanmar,killed,april,1,2018
+2874,myanmar,kidnapped,april,0,2018
+3123,myanmar,arrested,april,0,2018
+45,nepal,kidnapped,january,0,2017
+115,nepal,kidnapped,february,0,2017
+185,nepal,kidnapped,march,0,2017
+255,nepal,kidnapped,april,0,2017
+325,nepal,kidnapped,may,0,2017
+395,nepal,kidnapped,june,0,2017
+465,nepal,kidnapped,july,0,2017
+535,nepal,kidnapped,august,0,2017
+605,nepal,kidnapped,september,0,2017
+675,nepal,kidnapped,october,0,2017
+745,nepal,kidnapped,november,0,2017
+815,nepal,kidnapped,december,0,2017
+885,nepal,killed,january,0,2017
+955,nepal,killed,february,0,2017
+1025,nepal,killed,march,1,2017
+1095,nepal,killed,april,0,2017
+1165,nepal,killed,may,0,2017
+1235,nepal,killed,june,0,2017
+1305,nepal,killed,july,0,2017
+1375,nepal,killed,august,0,2017
+1445,nepal,killed,september,0,2017
+1515,nepal,killed,october,0,2017
+1585,nepal,killed,november,0,2017
+1655,nepal,killed,december,0,2017
+1725,nepal,arrested,january,0,2017
+1795,nepal,arrested,february,0,2017
+1865,nepal,arrested,march,0,2017
+1935,nepal,arrested,april,0,2017
+2005,nepal,arrested,may,0,2017
+2075,nepal,arrested,june,1,2017
+2145,nepal,arrested,july,0,2017
+2215,nepal,arrested,august,0,2017
+2285,nepal,arrested,september,0,2017
+2355,nepal,arrested,october,0,2017
+2425,nepal,arrested,november,0,2017
+2495,nepal,arrested,december,0,2017
+2626,nepal,killed,april,0,2018
+2875,nepal,kidnapped,april,0,2018
+3124,nepal,arrested,april,1,2018
+46,nicaragua,kidnapped,january,0,2017
+116,nicaragua,kidnapped,february,0,2017
+186,nicaragua,kidnapped,march,0,2017
+256,nicaragua,kidnapped,april,0,2017
+326,nicaragua,kidnapped,may,0,2017
+396,nicaragua,kidnapped,june,0,2017
+466,nicaragua,kidnapped,july,0,2017
+536,nicaragua,kidnapped,august,0,2017
+606,nicaragua,kidnapped,september,0,2017
+676,nicaragua,kidnapped,october,0,2017
+746,nicaragua,kidnapped,november,0,2017
+816,nicaragua,kidnapped,december,0,2017
+886,nicaragua,killed,january,0,2017
+956,nicaragua,killed,february,0,2017
+1026,nicaragua,killed,march,0,2017
+1096,nicaragua,killed,april,0,2017
+1166,nicaragua,killed,may,0,2017
+1236,nicaragua,killed,june,0,2017
+1306,nicaragua,killed,july,0,2017
+1376,nicaragua,killed,august,0,2017
+1446,nicaragua,killed,september,0,2017
+1516,nicaragua,killed,october,0,2017
+1586,nicaragua,killed,november,0,2017
+1656,nicaragua,killed,december,0,2017
+1726,nicaragua,arrested,january,0,2017
+1796,nicaragua,arrested,february,0,2017
+1866,nicaragua,arrested,march,0,2017
+1936,nicaragua,arrested,april,0,2017
+2006,nicaragua,arrested,may,0,2017
+2076,nicaragua,arrested,june,0,2017
+2146,nicaragua,arrested,july,0,2017
+2216,nicaragua,arrested,august,0,2017
+2286,nicaragua,arrested,september,0,2017
+2356,nicaragua,arrested,october,0,2017
+2426,nicaragua,arrested,november,0,2017
+2496,nicaragua,arrested,december,0,2017
+47,niger,kidnapped,january,0,2017
+117,niger,kidnapped,february,0,2017
+187,niger,kidnapped,march,0,2017
+257,niger,kidnapped,april,0,2017
+327,niger,kidnapped,may,0,2017
+397,niger,kidnapped,june,0,2017
+467,niger,kidnapped,july,0,2017
+537,niger,kidnapped,august,0,2017
+607,niger,kidnapped,september,0,2017
+677,niger,kidnapped,october,0,2017
+747,niger,kidnapped,november,0,2017
+817,niger,kidnapped,december,0,2017
+887,niger,killed,january,0,2017
+957,niger,killed,february,0,2017
+1027,niger,killed,march,0,2017
+1097,niger,killed,april,0,2017
+1167,niger,killed,may,0,2017
+1237,niger,killed,june,0,2017
+1307,niger,killed,july,0,2017
+1377,niger,killed,august,0,2017
+1447,niger,killed,september,0,2017
+1517,niger,killed,october,0,2017
+1587,niger,killed,november,0,2017
+1657,niger,killed,december,0,2017
+1727,niger,arrested,january,0,2017
+1797,niger,arrested,february,0,2017
+1867,niger,arrested,march,0,2017
+1937,niger,arrested,april,0,2017
+2007,niger,arrested,may,1,2017
+2077,niger,arrested,june,0,2017
+2147,niger,arrested,july,0,2017
+2217,niger,arrested,august,0,2017
+2287,niger,arrested,september,0,2017
+2357,niger,arrested,october,0,2017
+2427,niger,arrested,november,0,2017
+2497,niger,arrested,december,0,2017
+2627,niger,killed,april,0,2018
+2725,niger,killed,september,0,2018
+2876,niger,kidnapped,april,1,2018
+2974,niger,kidnapped,september,1,2018
+3125,niger,arrested,april,0,2018
+3223,niger,arrested,september,0,2018
+48,nigeria,kidnapped,january,0,2017
+118,nigeria,kidnapped,february,0,2017
+188,nigeria,kidnapped,march,0,2017
+258,nigeria,kidnapped,april,0,2017
+328,nigeria,kidnapped,may,0,2017
+398,nigeria,kidnapped,june,0,2017
+468,nigeria,kidnapped,july,0,2017
+538,nigeria,kidnapped,august,0,2017
+608,nigeria,kidnapped,september,0,2017
+678,nigeria,kidnapped,october,3,2017
+748,nigeria,kidnapped,november,0,2017
+818,nigeria,kidnapped,december,0,2017
+888,nigeria,killed,january,9,2017
+958,nigeria,killed,february,0,2017
+1028,nigeria,killed,march,0,2017
+1098,nigeria,killed,april,0,2017
+1168,nigeria,killed,may,0,2017
+1238,nigeria,killed,june,0,2017
+1308,nigeria,killed,july,0,2017
+1378,nigeria,killed,august,0,2017
+1448,nigeria,killed,september,0,2017
+1518,nigeria,killed,october,1,2017
+1588,nigeria,killed,november,0,2017
+1658,nigeria,killed,december,2,2017
+1728,nigeria,arrested,january,0,2017
+1798,nigeria,arrested,february,0,2017
+1868,nigeria,arrested,march,0,2017
+1938,nigeria,arrested,april,0,2017
+2008,nigeria,arrested,may,0,2017
+2078,nigeria,arrested,june,1,2017
+2148,nigeria,arrested,july,0,2017
+2218,nigeria,arrested,august,0,2017
+2288,nigeria,arrested,september,0,2017
+2358,nigeria,arrested,october,0,2017
+2428,nigeria,arrested,november,0,2017
+2498,nigeria,arrested,december,0,2017
+2591,nigeria,killed,march,4,2018
+2676,nigeria,killed,june,1,2018
+2840,nigeria,kidnapped,march,3,2018
+2925,nigeria,kidnapped,june,0,2018
+3089,nigeria,arrested,march,0,2018
+3174,nigeria,arrested,june,0,2018
+3288,nigeria,killed,april,1,2019
+3289,nigeria,killed,may,1,2019
+3339,nigeria,kidnapped,april,0,2019
+3340,nigeria,kidnapped,may,0,2019
+3390,nigeria,arrested,april,0,2019
+3391,nigeria,arrested,may,0,2019
+2677,occupied palestinian territories,killed,june,1,2018
+2717,occupied palestinian territories,killed,august,1,2018
+2926,occupied palestinian territories,kidnapped,june,0,2018
+2966,occupied palestinian territories,kidnapped,august,0,2018
+3175,occupied palestinian territories,arrested,june,0,2018
+3215,occupied palestinian territories,arrested,august,0,2018
+3279,occupied palestinian territories,killed,march,1,2019
+3317,occupied palestinian territories,killed,may,1,2019
+3330,occupied palestinian territories,kidnapped,march,0,2019
+3368,occupied palestinian territories,kidnapped,may,0,2019
+3381,occupied palestinian territories,arrested,march,0,2019
+3419,occupied palestinian territories,arrested,may,0,2019
+49,opt/jwg,kidnapped,january,0,2017
+119,opt/jwg,kidnapped,february,0,2017
+189,opt/jwg,kidnapped,march,0,2017
+259,opt/jwg,kidnapped,april,0,2017
+329,opt/jwg,kidnapped,may,0,2017
+399,opt/jwg,kidnapped,june,0,2017
+469,opt/jwg,kidnapped,july,0,2017
+539,opt/jwg,kidnapped,august,0,2017
+609,opt/jwg,kidnapped,september,0,2017
+679,opt/jwg,kidnapped,october,0,2017
+749,opt/jwg,kidnapped,november,0,2017
+819,opt/jwg,kidnapped,december,0,2017
+889,opt/jwg,killed,january,0,2017
+959,opt/jwg,killed,february,0,2017
+1029,opt/jwg,killed,march,0,2017
+1099,opt/jwg,killed,april,0,2017
+1169,opt/jwg,killed,may,0,2017
+1239,opt/jwg,killed,june,0,2017
+1309,opt/jwg,killed,july,0,2017
+1379,opt/jwg,killed,august,0,2017
+1449,opt/jwg,killed,september,0,2017
+1519,opt/jwg,killed,october,0,2017
+1589,opt/jwg,killed,november,0,2017
+1659,opt/jwg,killed,december,0,2017
+1729,opt/jwg,arrested,january,0,2017
+1799,opt/jwg,arrested,february,0,2017
+1869,opt/jwg,arrested,march,0,2017
+1939,opt/jwg,arrested,april,0,2017
+2009,opt/jwg,arrested,may,0,2017
+2079,opt/jwg,arrested,june,0,2017
+2149,opt/jwg,arrested,july,0,2017
+2219,opt/jwg,arrested,august,0,2017
+2289,opt/jwg,arrested,september,0,2017
+2359,opt/jwg,arrested,october,0,2017
+2429,opt/jwg,arrested,november,0,2017
+2499,opt/jwg,arrested,december,0,2017
+50,pakistan,kidnapped,january,0,2017
+120,pakistan,kidnapped,february,0,2017
+190,pakistan,kidnapped,march,0,2017
+260,pakistan,kidnapped,april,0,2017
+330,pakistan,kidnapped,may,0,2017
+400,pakistan,kidnapped,june,0,2017
+470,pakistan,kidnapped,july,0,2017
+540,pakistan,kidnapped,august,0,2017
+610,pakistan,kidnapped,september,0,2017
+680,pakistan,kidnapped,october,0,2017
+750,pakistan,kidnapped,november,0,2017
+820,pakistan,kidnapped,december,0,2017
+890,pakistan,killed,january,0,2017
+960,pakistan,killed,february,0,2017
+1030,pakistan,killed,march,0,2017
+1100,pakistan,killed,april,0,2017
+1170,pakistan,killed,may,0,2017
+1240,pakistan,killed,june,0,2017
+1310,pakistan,killed,july,0,2017
+1380,pakistan,killed,august,1,2017
+1450,pakistan,killed,september,0,2017
+1520,pakistan,killed,october,0,2017
+1590,pakistan,killed,november,0,2017
+1660,pakistan,killed,december,0,2017
+1730,pakistan,arrested,january,0,2017
+1800,pakistan,arrested,february,0,2017
+1870,pakistan,arrested,march,0,2017
+1940,pakistan,arrested,april,0,2017
+2010,pakistan,arrested,may,0,2017
+2080,pakistan,arrested,june,0,2017
+2150,pakistan,arrested,july,0,2017
+2220,pakistan,arrested,august,0,2017
+2290,pakistan,arrested,september,0,2017
+2360,pakistan,arrested,october,0,2017
+2430,pakistan,arrested,november,0,2017
+2500,pakistan,arrested,december,0,2017
+2592,pakistan,killed,march,2,2018
+2765,pakistan,killed,december,1,2018
+2841,pakistan,kidnapped,march,0,2018
+3014,pakistan,kidnapped,december,0,2018
+3090,pakistan,arrested,march,0,2018
+3263,pakistan,arrested,december,0,2018
+3305,pakistan,killed,april,1,2019
+3356,pakistan,kidnapped,april,0,2019
+3407,pakistan,arrested,april,0,2019
+51,peru,kidnapped,january,0,2017
+121,peru,kidnapped,february,0,2017
+191,peru,kidnapped,march,0,2017
+261,peru,kidnapped,april,0,2017
+331,peru,kidnapped,may,0,2017
+401,peru,kidnapped,june,0,2017
+471,peru,kidnapped,july,0,2017
+541,peru,kidnapped,august,0,2017
+611,peru,kidnapped,september,0,2017
+681,peru,kidnapped,october,0,2017
+751,peru,kidnapped,november,0,2017
+821,peru,kidnapped,december,0,2017
+891,peru,killed,january,0,2017
+961,peru,killed,february,0,2017
+1031,peru,killed,march,0,2017
+1101,peru,killed,april,0,2017
+1171,peru,killed,may,0,2017
+1241,peru,killed,june,0,2017
+1311,peru,killed,july,0,2017
+1381,peru,killed,august,0,2017
+1451,peru,killed,september,0,2017
+1521,peru,killed,october,0,2017
+1591,peru,killed,november,0,2017
+1661,peru,killed,december,0,2017
+1731,peru,arrested,january,0,2017
+1801,peru,arrested,february,0,2017
+1871,peru,arrested,march,0,2017
+1941,peru,arrested,april,0,2017
+2011,peru,arrested,may,0,2017
+2081,peru,arrested,june,0,2017
+2151,peru,arrested,july,0,2017
+2221,peru,arrested,august,0,2017
+2291,peru,arrested,september,0,2017
+2361,peru,arrested,october,0,2017
+2431,peru,arrested,november,0,2017
+2501,peru,arrested,december,0,2017
+2593,peru,killed,march,0,2018
+2842,peru,kidnapped,march,1,2018
+3091,peru,arrested,march,0,2018
+52,philippines,kidnapped,january,0,2017
+122,philippines,kidnapped,february,0,2017
+192,philippines,kidnapped,march,0,2017
+262,philippines,kidnapped,april,0,2017
+332,philippines,kidnapped,may,0,2017
+402,philippines,kidnapped,june,0,2017
+472,philippines,kidnapped,july,0,2017
+542,philippines,kidnapped,august,0,2017
+612,philippines,kidnapped,september,0,2017
+682,philippines,kidnapped,october,0,2017
+752,philippines,kidnapped,november,0,2017
+822,philippines,kidnapped,december,0,2017
+892,philippines,killed,january,0,2017
+962,philippines,killed,february,0,2017
+1032,philippines,killed,march,0,2017
+1102,philippines,killed,april,0,2017
+1172,philippines,killed,may,0,2017
+1242,philippines,killed,june,0,2017
+1312,philippines,killed,july,0,2017
+1382,philippines,killed,august,0,2017
+1452,philippines,killed,september,0,2017
+1522,philippines,killed,october,0,2017
+1592,philippines,killed,november,0,2017
+1662,philippines,killed,december,0,2017
+1732,philippines,arrested,january,0,2017
+1802,philippines,arrested,february,0,2017
+1872,philippines,arrested,march,0,2017
+1942,philippines,arrested,april,0,2017
+2012,philippines,arrested,may,0,2017
+2082,philippines,arrested,june,0,2017
+2152,philippines,arrested,july,0,2017
+2222,philippines,arrested,august,0,2017
+2292,philippines,arrested,september,0,2017
+2362,philippines,arrested,october,0,2017
+2432,philippines,arrested,november,0,2017
+2502,philippines,arrested,december,0,2017
+2656,philippines,killed,may,0,2018
+2678,philippines,killed,june,0,2018
+2905,philippines,kidnapped,may,1,2018
+2927,philippines,kidnapped,june,0,2018
+3154,philippines,arrested,may,0,2018
+3176,philippines,arrested,june,1,2018
+53,Papua New Guinea,kidnapped,january,0,2017
+123,Papua New Guinea,kidnapped,february,0,2017
+193,Papua New Guinea,kidnapped,march,0,2017
+263,Papua New Guinea,kidnapped,april,0,2017
+333,Papua New Guinea,kidnapped,may,0,2017
+403,Papua New Guinea,kidnapped,june,0,2017
+473,Papua New Guinea,kidnapped,july,0,2017
+543,Papua New Guinea,kidnapped,august,0,2017
+613,Papua New Guinea,kidnapped,september,0,2017
+683,Papua New Guinea,kidnapped,october,0,2017
+753,Papua New Guinea,kidnapped,november,0,2017
+823,Papua New Guinea,kidnapped,december,0,2017
+893,Papua New Guinea,killed,january,0,2017
+963,Papua New Guinea,killed,february,0,2017
+1033,Papua New Guinea,killed,march,0,2017
+1103,Papua New Guinea,killed,april,0,2017
+1173,Papua New Guinea,killed,may,0,2017
+1243,Papua New Guinea,killed,june,0,2017
+1313,Papua New Guinea,killed,july,0,2017
+1383,Papua New Guinea,killed,august,0,2017
+1453,Papua New Guinea,killed,september,0,2017
+1523,Papua New Guinea,killed,october,0,2017
+1593,Papua New Guinea,killed,november,0,2017
+1663,Papua New Guinea,killed,december,0,2017
+1733,Papua New Guinea,arrested,january,0,2017
+1803,Papua New Guinea,arrested,february,1,2017
+1873,Papua New Guinea,arrested,march,0,2017
+1943,Papua New Guinea,arrested,april,1,2017
+2013,Papua New Guinea,arrested,may,0,2017
+2083,Papua New Guinea,arrested,june,0,2017
+2153,Papua New Guinea,arrested,july,0,2017
+2223,Papua New Guinea,arrested,august,0,2017
+2293,Papua New Guinea,arrested,september,0,2017
+2363,Papua New Guinea,arrested,october,0,2017
+2433,Papua New Guinea,arrested,november,0,2017
+2503,Papua New Guinea,arrested,december,0,2017
+2558,rwanda,killed,february,0,2018
+2807,rwanda,kidnapped,february,0,2018
+3056,rwanda,arrested,february,1,2018
+54,senegal,kidnapped,january,0,2017
+124,senegal,kidnapped,february,0,2017
+194,senegal,kidnapped,march,0,2017
+264,senegal,kidnapped,april,0,2017
+334,senegal,kidnapped,may,0,2017
+404,senegal,kidnapped,june,0,2017
+474,senegal,kidnapped,july,0,2017
+544,senegal,kidnapped,august,0,2017
+614,senegal,kidnapped,september,0,2017
+684,senegal,kidnapped,october,0,2017
+754,senegal,kidnapped,november,0,2017
+824,senegal,kidnapped,december,0,2017
+894,senegal,killed,january,0,2017
+964,senegal,killed,february,0,2017
+1034,senegal,killed,march,0,2017
+1104,senegal,killed,april,0,2017
+1174,senegal,killed,may,0,2017
+1244,senegal,killed,june,0,2017
+1314,senegal,killed,july,0,2017
+1384,senegal,killed,august,0,2017
+1454,senegal,killed,september,0,2017
+1524,senegal,killed,october,0,2017
+1594,senegal,killed,november,0,2017
+1664,senegal,killed,december,0,2017
+1734,senegal,arrested,january,0,2017
+1804,senegal,arrested,february,0,2017
+1874,senegal,arrested,march,0,2017
+1944,senegal,arrested,april,0,2017
+2014,senegal,arrested,may,0,2017
+2084,senegal,arrested,june,0,2017
+2154,senegal,arrested,july,0,2017
+2224,senegal,arrested,august,1,2017
+2294,senegal,arrested,september,0,2017
+2364,senegal,arrested,october,0,2017
+2434,senegal,arrested,november,0,2017
+2504,senegal,arrested,december,0,2017
+55,sierra leone,kidnapped,january,0,2017
+125,sierra leone,kidnapped,february,0,2017
+195,sierra leone,kidnapped,march,0,2017
+265,sierra leone,kidnapped,april,0,2017
+335,sierra leone,kidnapped,may,0,2017
+405,sierra leone,kidnapped,june,0,2017
+475,sierra leone,kidnapped,july,0,2017
+545,sierra leone,kidnapped,august,0,2017
+615,sierra leone,kidnapped,september,0,2017
+685,sierra leone,kidnapped,october,0,2017
+755,sierra leone,kidnapped,november,0,2017
+825,sierra leone,kidnapped,december,0,2017
+895,sierra leone,killed,january,0,2017
+965,sierra leone,killed,february,0,2017
+1035,sierra leone,killed,march,0,2017
+1105,sierra leone,killed,april,0,2017
+1175,sierra leone,killed,may,0,2017
+1245,sierra leone,killed,june,0,2017
+1315,sierra leone,killed,july,0,2017
+1385,sierra leone,killed,august,0,2017
+1455,sierra leone,killed,september,0,2017
+1525,sierra leone,killed,october,0,2017
+1595,sierra leone,killed,november,0,2017
+1665,sierra leone,killed,december,0,2017
+1735,sierra leone,arrested,january,0,2017
+1805,sierra leone,arrested,february,0,2017
+1875,sierra leone,arrested,march,0,2017
+1945,sierra leone,arrested,april,0,2017
+2015,sierra leone,arrested,may,0,2017
+2085,sierra leone,arrested,june,0,2017
+2155,sierra leone,arrested,july,0,2017
+2225,sierra leone,arrested,august,0,2017
+2295,sierra leone,arrested,september,0,2017
+2365,sierra leone,arrested,october,0,2017
+2435,sierra leone,arrested,november,0,2017
+2505,sierra leone,arrested,december,0,2017
+56,solomon islands,kidnapped,january,0,2017
+126,solomon islands,kidnapped,february,0,2017
+196,solomon islands,kidnapped,march,0,2017
+266,solomon islands,kidnapped,april,0,2017
+336,solomon islands,kidnapped,may,0,2017
+406,solomon islands,kidnapped,june,0,2017
+476,solomon islands,kidnapped,july,0,2017
+546,solomon islands,kidnapped,august,0,2017
+616,solomon islands,kidnapped,september,0,2017
+686,solomon islands,kidnapped,october,0,2017
+756,solomon islands,kidnapped,november,0,2017
+826,solomon islands,kidnapped,december,0,2017
+896,solomon islands,killed,january,0,2017
+966,solomon islands,killed,february,0,2017
+1036,solomon islands,killed,march,0,2017
+1106,solomon islands,killed,april,0,2017
+1176,solomon islands,killed,may,0,2017
+1246,solomon islands,killed,june,0,2017
+1316,solomon islands,killed,july,0,2017
+1386,solomon islands,killed,august,0,2017
+1456,solomon islands,killed,september,0,2017
+1526,solomon islands,killed,october,0,2017
+1596,solomon islands,killed,november,0,2017
+1666,solomon islands,killed,december,0,2017
+1736,solomon islands,arrested,january,0,2017
+1806,solomon islands,arrested,february,0,2017
+1876,solomon islands,arrested,march,0,2017
+1946,solomon islands,arrested,april,0,2017
+2016,solomon islands,arrested,may,0,2017
+2086,solomon islands,arrested,june,0,2017
+2156,solomon islands,arrested,july,0,2017
+2226,solomon islands,arrested,august,0,2017
+2296,solomon islands,arrested,september,0,2017
+2366,solomon islands,arrested,october,0,2017
+2436,solomon islands,arrested,november,0,2017
+2506,solomon islands,arrested,december,0,2017
+57,somalia,kidnapped,january,0,2017
+127,somalia,kidnapped,february,3,2017
+197,somalia,kidnapped,march,1,2017
+267,somalia,kidnapped,april,0,2017
+337,somalia,kidnapped,may,0,2017
+407,somalia,kidnapped,june,0,2017
+477,somalia,kidnapped,july,12,2017
+547,somalia,kidnapped,august,0,2017
+617,somalia,kidnapped,september,0,2017
+687,somalia,kidnapped,october,0,2017
+757,somalia,kidnapped,november,0,2017
+827,somalia,kidnapped,december,0,2017
+897,somalia,killed,january,0,2017
+967,somalia,killed,february,0,2017
+1037,somalia,killed,march,1,2017
+1107,somalia,killed,april,0,2017
+1177,somalia,killed,may,0,2017
+1247,somalia,killed,june,0,2017
+1317,somalia,killed,july,0,2017
+1387,somalia,killed,august,0,2017
+1457,somalia,killed,september,1,2017
+1527,somalia,killed,october,5,2017
+1597,somalia,killed,november,0,2017
+1667,somalia,killed,december,0,2017
+1737,somalia,arrested,january,0,2017
+1807,somalia,arrested,february,0,2017
+1877,somalia,arrested,march,0,2017
+1947,somalia,arrested,april,1,2017
+2017,somalia,arrested,may,0,2017
+2087,somalia,arrested,june,0,2017
+2157,somalia,arrested,july,2,2017
+2227,somalia,arrested,august,0,2017
+2297,somalia,arrested,september,0,2017
+2367,somalia,arrested,october,0,2017
+2437,somalia,arrested,november,0,2017
+2507,somalia,arrested,december,0,2017
+2530,somalia,killed,january,1,2018
+2531,somalia,killed,january,0,2018
+2594,somalia,killed,march,1,2018
+2628,somalia,killed,april,1,2018
+2657,somalia,killed,may,1,2018
+2658,somalia,killed,may,0,2018
+2718,somalia,killed,august,0,2018
+2738,somalia,killed,october,0,2018
+2779,somalia,kidnapped,january,0,2018
+2780,somalia,kidnapped,january,0,2018
+2843,somalia,kidnapped,march,0,2018
+2877,somalia,kidnapped,april,0,2018
+2906,somalia,kidnapped,may,0,2018
+2907,somalia,kidnapped,may,1,2018
+2967,somalia,kidnapped,august,5,2018
+2987,somalia,kidnapped,october,0,2018
+3028,somalia,arrested,january,0,2018
+3029,somalia,arrested,january,1,2018
+3092,somalia,arrested,march,0,2018
+3126,somalia,arrested,april,0,2018
+3155,somalia,arrested,may,0,2018
+3156,somalia,arrested,may,0,2018
+3216,somalia,arrested,august,0,2018
+3236,somalia,arrested,october,1,2018
+3290,somalia,killed,january,3,2019
+3291,somalia,killed,january,0,2019
+3292,somalia,killed,march,0,2019
+3296,somalia,killed,february,0,2019
+3299,somalia,killed,may,0,2019
+3341,somalia,kidnapped,january,0,2019
+3342,somalia,kidnapped,january,1,2019
+3343,somalia,kidnapped,march,0,2019
+3347,somalia,kidnapped,february,10,2019
+3350,somalia,kidnapped,may,2,2019
+3392,somalia,arrested,january,0,2019
+3393,somalia,arrested,january,0,2019
+3394,somalia,arrested,march,0,2019
+3398,somalia,arrested,february,0,2019
+3401,somalia,arrested,may,0,2019
+58,south africa,kidnapped,january,0,2017
+128,south africa,kidnapped,february,0,2017
+198,south africa,kidnapped,march,0,2017
+268,south africa,kidnapped,april,0,2017
+338,south africa,kidnapped,may,0,2017
+408,south africa,kidnapped,june,0,2017
+478,south africa,kidnapped,july,0,2017
+548,south africa,kidnapped,august,0,2017
+618,south africa,kidnapped,september,0,2017
+688,south africa,kidnapped,october,0,2017
+758,south africa,kidnapped,november,0,2017
+828,south africa,kidnapped,december,0,2017
+898,south africa,killed,january,0,2017
+968,south africa,killed,february,0,2017
+1038,south africa,killed,march,0,2017
+1108,south africa,killed,april,0,2017
+1178,south africa,killed,may,0,2017
+1248,south africa,killed,june,1,2017
+1318,south africa,killed,july,0,2017
+1388,south africa,killed,august,0,2017
+1458,south africa,killed,september,0,2017
+1528,south africa,killed,october,0,2017
+1598,south africa,killed,november,0,2017
+1668,south africa,killed,december,0,2017
+1738,south africa,arrested,january,0,2017
+1808,south africa,arrested,february,0,2017
+1878,south africa,arrested,march,0,2017
+1948,south africa,arrested,april,0,2017
+2018,south africa,arrested,may,1,2017
+2088,south africa,arrested,june,0,2017
+2158,south africa,arrested,july,0,2017
+2228,south africa,arrested,august,0,2017
+2298,south africa,arrested,september,0,2017
+2368,south africa,arrested,october,0,2017
+2438,south africa,arrested,november,0,2017
+2508,south africa,arrested,december,0,2017
+2739,south africa,killed,october,1,2018
+2988,south africa,kidnapped,october,0,2018
+3237,south africa,arrested,october,0,2018
+59,south sudan,kidnapped,january,0,2017
+129,south sudan,kidnapped,february,5,2017
+199,south sudan,kidnapped,march,9,2017
+269,south sudan,kidnapped,april,1,2017
+339,south sudan,kidnapped,may,0,2017
+409,south sudan,kidnapped,june,0,2017
+479,south sudan,kidnapped,july,8,2017
+549,south sudan,kidnapped,august,0,2017
+619,south sudan,kidnapped,september,0,2017
+689,south sudan,kidnapped,october,0,2017
+759,south sudan,kidnapped,november,0,2017
+829,south sudan,kidnapped,december,6,2017
+899,south sudan,killed,january,2,2017
+969,south sudan,killed,february,2,2017
+1039,south sudan,killed,march,7,2017
+1109,south sudan,killed,april,3,2017
+1179,south sudan,killed,may,1,2017
+1249,south sudan,killed,june,0,2017
+1319,south sudan,killed,july,0,2017
+1389,south sudan,killed,august,0,2017
+1459,south sudan,killed,september,5,2017
+1529,south sudan,killed,october,1,2017
+1599,south sudan,killed,november,9,2017
+1669,south sudan,killed,december,0,2017
+1739,south sudan,arrested,january,3,2017
+1809,south sudan,arrested,february,1,2017
+1879,south sudan,arrested,march,1,2017
+1949,south sudan,arrested,april,5,2017
+2019,south sudan,arrested,may,0,2017
+2089,south sudan,arrested,june,1,2017
+2159,south sudan,arrested,july,1,2017
+2229,south sudan,arrested,august,0,2017
+2299,south sudan,arrested,september,0,2017
+2369,south sudan,arrested,october,0,2017
+2439,south sudan,arrested,november,1,2017
+2509,south sudan,arrested,december,0,2017
+2532,south sudan,killed,january,0,2018
+2533,south sudan,killed,january,0,2018
+2534,south sudan,killed,january,0,2018
+2559,south sudan,killed,february,1,2018
+2560,south sudan,killed,february,1,2018
+2561,south sudan,killed,february,0,2018
+2595,south sudan,killed,march,0,2018
+2596,south sudan,killed,march,0,2018
+2597,south sudan,killed,march,0,2018
+2629,south sudan,killed,april,1,2018
+2630,south sudan,killed,april,1,2018
+2631,south sudan,killed,april,1,2018
+2632,south sudan,killed,april,2,2018
+2633,south sudan,killed,april,1,2018
+2634,south sudan,killed,april,1,2018
+2635,south sudan,killed,april,0,2018
+2636,south sudan,killed,april,0,2018
+2637,south sudan,killed,april,0,2018
+2638,south sudan,killed,april,0,2018
+2639,south sudan,killed,april,0,2018
+2659,south sudan,killed,may,1,2018
+2660,south sudan,killed,may,0,2018
+2661,south sudan,killed,may,0,2018
+2662,south sudan,killed,may,0,2018
+2679,south sudan,killed,june,0,2018
+2680,south sudan,killed,june,0,2018
+2703,south sudan,killed,july,1,2018
+2704,south sudan,killed,july,0,2018
+2726,south sudan,killed,september,1,2018
+2727,south sudan,killed,september,1,2018
+2728,south sudan,killed,september,0,2018
+2729,south sudan,killed,september,0,2018
+2730,south sudan,killed,september,0,2018
+2731,south sudan,killed,september,0,2018
+2740,south sudan,killed,october,1,2018
+2741,south sudan,killed,october,1,2018
+2753,south sudan,killed,november,0,2018
+2754,south sudan,killed,november,0,2018
+2766,south sudan,killed,december,0,2018
+2781,south sudan,kidnapped,january,0,2018
+2782,south sudan,kidnapped,january,0,2018
+2783,south sudan,kidnapped,january,0,2018
+2808,south sudan,kidnapped,february,0,2018
+2809,south sudan,kidnapped,february,0,2018
+2810,south sudan,kidnapped,february,0,2018
+2844,south sudan,kidnapped,march,0,2018
+2845,south sudan,kidnapped,march,0,2018
+2846,south sudan,kidnapped,march,7,2018
+2878,south sudan,kidnapped,april,0,2018
+2879,south sudan,kidnapped,april,0,2018
+2880,south sudan,kidnapped,april,0,2018
+2881,south sudan,kidnapped,april,0,2018
+2882,south sudan,kidnapped,april,0,2018
+2883,south sudan,kidnapped,april,0,2018
+2884,south sudan,kidnapped,april,0,2018
+2885,south sudan,kidnapped,april,10,2018
+2886,south sudan,kidnapped,april,3,2018
+2887,south sudan,kidnapped,april,0,2018
+2888,south sudan,kidnapped,april,0,2018
+2908,south sudan,kidnapped,may,0,2018
+2909,south sudan,kidnapped,may,12,2018
+2910,south sudan,kidnapped,may,7,2018
+2911,south sudan,kidnapped,may,0,2018
+2928,south sudan,kidnapped,june,0,2018
+2929,south sudan,kidnapped,june,0,2018
+2952,south sudan,kidnapped,july,0,2018
+2953,south sudan,kidnapped,july,0,2018
+2975,south sudan,kidnapped,september,0,2018
+2976,south sudan,kidnapped,september,0,2018
+2977,south sudan,kidnapped,september,0,2018
+2978,south sudan,kidnapped,september,3,2018
+2979,south sudan,kidnapped,september,1,2018
+2980,south sudan,kidnapped,september,0,2018
+2989,south sudan,kidnapped,october,0,2018
+2990,south sudan,kidnapped,october,9,2018
+3002,south sudan,kidnapped,november,0,2018
+3003,south sudan,kidnapped,november,0,2018
+3015,south sudan,kidnapped,december,0,2018
+3030,south sudan,arrested,january,1,2018
+3031,south sudan,arrested,january,1,2018
+3032,south sudan,arrested,january,1,2018
+3057,south sudan,arrested,february,0,2018
+3058,south sudan,arrested,february,0,2018
+3059,south sudan,arrested,february,29,2018
+3093,south sudan,arrested,march,1,2018
+3094,south sudan,arrested,march,1,2018
+3095,south sudan,arrested,march,0,2018
+3127,south sudan,arrested,april,0,2018
+3128,south sudan,arrested,april,0,2018
+3129,south sudan,arrested,april,0,2018
+3130,south sudan,arrested,april,0,2018
+3131,south sudan,arrested,april,0,2018
+3132,south sudan,arrested,april,0,2018
+3133,south sudan,arrested,april,2,2018
+3134,south sudan,arrested,april,0,2018
+3135,south sudan,arrested,april,0,2018
+3136,south sudan,arrested,april,1,2018
+3137,south sudan,arrested,april,1,2018
+3157,south sudan,arrested,may,0,2018
+3158,south sudan,arrested,may,0,2018
+3159,south sudan,arrested,may,0,2018
+3160,south sudan,arrested,may,1,2018
+3177,south sudan,arrested,june,1,2018
+3178,south sudan,arrested,june,1,2018
+3201,south sudan,arrested,july,0,2018
+3202,south sudan,arrested,july,1,2018
+3224,south sudan,arrested,september,0,2018
+3225,south sudan,arrested,september,0,2018
+3226,south sudan,arrested,september,7,2018
+3227,south sudan,arrested,september,0,2018
+3228,south sudan,arrested,september,0,2018
+3229,south sudan,arrested,september,1,2018
+3238,south sudan,arrested,october,0,2018
+3239,south sudan,arrested,october,0,2018
+3251,south sudan,arrested,november,1,2018
+3252,south sudan,arrested,november,1,2018
+3264,south sudan,arrested,december,1,2018
+60,sri lanka,kidnapped,january,0,2017
+130,sri lanka,kidnapped,february,0,2017
+200,sri lanka,kidnapped,march,0,2017
+270,sri lanka,kidnapped,april,0,2017
+340,sri lanka,kidnapped,may,0,2017
+410,sri lanka,kidnapped,june,0,2017
+480,sri lanka,kidnapped,july,0,2017
+550,sri lanka,kidnapped,august,0,2017
+620,sri lanka,kidnapped,september,0,2017
+690,sri lanka,kidnapped,october,0,2017
+760,sri lanka,kidnapped,november,0,2017
+830,sri lanka,kidnapped,december,0,2017
+900,sri lanka,killed,january,0,2017
+970,sri lanka,killed,february,0,2017
+1040,sri lanka,killed,march,0,2017
+1110,sri lanka,killed,april,0,2017
+1180,sri lanka,killed,may,0,2017
+1250,sri lanka,killed,june,0,2017
+1320,sri lanka,killed,july,0,2017
+1390,sri lanka,killed,august,0,2017
+1460,sri lanka,killed,september,0,2017
+1530,sri lanka,killed,october,0,2017
+1600,sri lanka,killed,november,0,2017
+1670,sri lanka,killed,december,0,2017
+1740,sri lanka,arrested,january,0,2017
+1810,sri lanka,arrested,february,0,2017
+1880,sri lanka,arrested,march,0,2017
+1950,sri lanka,arrested,april,0,2017
+2020,sri lanka,arrested,may,0,2017
+2090,sri lanka,arrested,june,0,2017
+2160,sri lanka,arrested,july,0,2017
+2230,sri lanka,arrested,august,0,2017
+2300,sri lanka,arrested,september,0,2017
+2370,sri lanka,arrested,october,0,2017
+2440,sri lanka,arrested,november,0,2017
+2510,sri lanka,arrested,december,0,2017
+61,sudan,kidnapped,january,0,2017
+131,sudan,kidnapped,february,0,2017
+201,sudan,kidnapped,march,0,2017
+271,sudan,kidnapped,april,0,2017
+341,sudan,kidnapped,may,0,2017
+411,sudan,kidnapped,june,0,2017
+481,sudan,kidnapped,july,0,2017
+551,sudan,kidnapped,august,0,2017
+621,sudan,kidnapped,september,0,2017
+691,sudan,kidnapped,october,1,2017
+761,sudan,kidnapped,november,0,2017
+831,sudan,kidnapped,december,0,2017
+901,sudan,killed,january,0,2017
+971,sudan,killed,february,0,2017
+1041,sudan,killed,march,0,2017
+1111,sudan,killed,april,0,2017
+1181,sudan,killed,may,0,2017
+1251,sudan,killed,june,0,2017
+1321,sudan,killed,july,0,2017
+1391,sudan,killed,august,0,2017
+1461,sudan,killed,september,0,2017
+1531,sudan,killed,october,0,2017
+1601,sudan,killed,november,0,2017
+1671,sudan,killed,december,0,2017
+1741,sudan,arrested,january,0,2017
+1811,sudan,arrested,february,0,2017
+1881,sudan,arrested,march,0,2017
+1951,sudan,arrested,april,0,2017
+2021,sudan,arrested,may,1,2017
+2091,sudan,arrested,june,0,2017
+2161,sudan,arrested,july,0,2017
+2231,sudan,arrested,august,0,2017
+2301,sudan,arrested,september,0,2017
+2371,sudan,arrested,october,0,2017
+2441,sudan,arrested,november,0,2017
+2511,sudan,arrested,december,0,2017
+2640,sudan,killed,april,1,2018
+2641,sudan,killed,april,1,2018
+2889,sudan,kidnapped,april,0,2018
+2890,sudan,kidnapped,april,0,2018
+3138,sudan,arrested,april,0,2018
+3139,sudan,arrested,april,0,2018
+62,syria,kidnapped,january,0,2017
+132,syria,kidnapped,february,0,2017
+202,syria,kidnapped,march,0,2017
+272,syria,kidnapped,april,0,2017
+342,syria,kidnapped,may,0,2017
+412,syria,kidnapped,june,0,2017
+482,syria,kidnapped,july,0,2017
+552,syria,kidnapped,august,0,2017
+622,syria,kidnapped,september,0,2017
+692,syria,kidnapped,october,0,2017
+762,syria,kidnapped,november,0,2017
+832,syria,kidnapped,december,0,2017
+902,syria,killed,january,4,2017
+972,syria,killed,february,8,2017
+1042,syria,killed,march,6,2017
+1112,syria,killed,april,19,2017
+1182,syria,killed,may,7,2017
+1252,syria,killed,june,2,2017
+1322,syria,killed,july,2,2017
+1392,syria,killed,august,8,2017
+1462,syria,killed,september,1,2017
+1532,syria,killed,october,1,2017
+1602,syria,killed,november,5,2017
+1672,syria,killed,december,3,2017
+1742,syria,arrested,january,0,2017
+1812,syria,arrested,february,1,2017
+1882,syria,arrested,march,0,2017
+1952,syria,arrested,april,0,2017
+2022,syria,arrested,may,0,2017
+2092,syria,arrested,june,0,2017
+2162,syria,arrested,july,0,2017
+2232,syria,arrested,august,0,2017
+2302,syria,arrested,september,0,2017
+2372,syria,arrested,october,0,2017
+2442,syria,arrested,november,0,2017
+2512,syria,arrested,december,0,2017
+2535,syria,killed,january,1,2018
+2536,syria,killed,january,1,2018
+2537,syria,killed,january,1,2018
+2538,syria,killed,january,0,2018
+2539,syria,killed,january,1,2018
+2540,syria,killed,january,0,2018
+2541,syria,killed,january,1,2018
+2542,syria,killed,january,1,2018
+2562,syria,killed,february,1,2018
+2563,syria,killed,february,1,2018
+2564,syria,killed,february,3,2018
+2565,syria,killed,february,1,2018
+2566,syria,killed,february,3,2018
+2567,syria,killed,february,1,2018
+2568,syria,killed,february,1,2018
+2569,syria,killed,february,1,2018
+2570,syria,killed,february,2,2018
+2571,syria,killed,february,1,2018
+2572,syria,killed,february,1,2018
+2573,syria,killed,february,1,2018
+2574,syria,killed,february,1,2018
+2575,syria,killed,february,1,2018
+2576,syria,killed,february,1,2018
+2577,syria,killed,february,1,2018
+2578,syria,killed,february,1,2018
+2598,syria,killed,march,2,2018
+2599,syria,killed,march,1,2018
+2600,syria,killed,march,4,2018
+2601,syria,killed,march,1,2018
+2602,syria,killed,march,3,2018
+2603,syria,killed,march,1,2018
+2604,syria,killed,march,3,2018
+2605,syria,killed,march,1,2018
+2606,syria,killed,march,1,2018
+2607,syria,killed,march,3,2018
+2608,syria,killed,march,3,2018
+2609,syria,killed,march,1,2018
+2610,syria,killed,march,1,2018
+2611,syria,killed,march,2,2018
+2612,syria,killed,march,0,2018
+2613,syria,killed,march,0,2018
+2614,syria,killed,march,1,2018
+2642,syria,killed,april,0,2018
+2643,syria,killed,april,1,2018
+2644,syria,killed,april,1,2018
+2663,syria,killed,may,1,2018
+2664,syria,killed,may,5,2018
+2665,syria,killed,may,1,2018
+2666,syria,killed,may,0,2018
+2667,syria,killed,may,0,2018
+2668,syria,killed,may,0,2018
+2669,syria,killed,may,0,2018
+2681,syria,killed,june,1,2018
+2682,syria,killed,june,1,2018
+2683,syria,killed,june,1,2018
+2684,syria,killed,june,1,2018
+2685,syria,killed,june,1,2018
+2686,syria,killed,june,1,2018
+2687,syria,killed,june,1,2018
+2688,syria,killed,june,1,2018
+2689,syria,killed,june,1,2018
+2690,syria,killed,june,1,2018
+2691,syria,killed,june,1,2018
+2692,syria,killed,june,2,2018
+2693,syria,killed,june,0,2018
+2694,syria,killed,june,0,2018
+2705,syria,killed,july,0,2018
+2706,syria,killed,july,1,2018
+2707,syria,killed,july,0,2018
+2719,syria,killed,august,0,2018
+2720,syria,killed,august,0,2018
+2732,syria,killed,september,0,2018
+2742,syria,killed,october,0,2018
+2755,syria,killed,november,1,2018
+2756,syria,killed,november,0,2018
+2757,syria,killed,november,0,2018
+2767,syria,killed,december,0,2018
+2768,syria,killed,december,1,2018
+2784,syria,kidnapped,january,0,2018
+2785,syria,kidnapped,january,0,2018
+2786,syria,kidnapped,january,0,2018
+2787,syria,kidnapped,january,1,2018
+2788,syria,kidnapped,january,0,2018
+2789,syria,kidnapped,january,0,2018
+2790,syria,kidnapped,january,0,2018
+2791,syria,kidnapped,january,0,2018
+2811,syria,kidnapped,february,0,2018
+2812,syria,kidnapped,february,0,2018
+2813,syria,kidnapped,february,0,2018
+2814,syria,kidnapped,february,0,2018
+2815,syria,kidnapped,february,0,2018
+2816,syria,kidnapped,february,0,2018
+2817,syria,kidnapped,february,0,2018
+2818,syria,kidnapped,february,0,2018
+2819,syria,kidnapped,february,0,2018
+2820,syria,kidnapped,february,0,2018
+2821,syria,kidnapped,february,0,2018
+2822,syria,kidnapped,february,0,2018
+2823,syria,kidnapped,february,0,2018
+2824,syria,kidnapped,february,0,2018
+2825,syria,kidnapped,february,0,2018
+2826,syria,kidnapped,february,0,2018
+2827,syria,kidnapped,february,0,2018
+2847,syria,kidnapped,march,0,2018
+2848,syria,kidnapped,march,0,2018
+2849,syria,kidnapped,march,0,2018
+2850,syria,kidnapped,march,0,2018
+2851,syria,kidnapped,march,0,2018
+2852,syria,kidnapped,march,0,2018
+2853,syria,kidnapped,march,0,2018
+2854,syria,kidnapped,march,0,2018
+2855,syria,kidnapped,march,0,2018
+2856,syria,kidnapped,march,0,2018
+2857,syria,kidnapped,march,0,2018
+2858,syria,kidnapped,march,0,2018
+2859,syria,kidnapped,march,0,2018
+2860,syria,kidnapped,march,0,2018
+2861,syria,kidnapped,march,0,2018
+2862,syria,kidnapped,march,0,2018
+2863,syria,kidnapped,march,0,2018
+2891,syria,kidnapped,april,0,2018
+2892,syria,kidnapped,april,0,2018
+2893,syria,kidnapped,april,0,2018
+2912,syria,kidnapped,may,0,2018
+2913,syria,kidnapped,may,0,2018
+2914,syria,kidnapped,may,0,2018
+2915,syria,kidnapped,may,1,2018
+2916,syria,kidnapped,may,1,2018
+2917,syria,kidnapped,may,0,2018
+2918,syria,kidnapped,may,0,2018
+2930,syria,kidnapped,june,0,2018
+2931,syria,kidnapped,june,0,2018
+2932,syria,kidnapped,june,0,2018
+2933,syria,kidnapped,june,0,2018
+2934,syria,kidnapped,june,0,2018
+2935,syria,kidnapped,june,0,2018
+2936,syria,kidnapped,june,0,2018
+2937,syria,kidnapped,june,0,2018
+2938,syria,kidnapped,june,0,2018
+2939,syria,kidnapped,june,0,2018
+2940,syria,kidnapped,june,0,2018
+2941,syria,kidnapped,june,0,2018
+2942,syria,kidnapped,june,0,2018
+2943,syria,kidnapped,june,0,2018
+2954,syria,kidnapped,july,4,2018
+2955,syria,kidnapped,july,0,2018
+2956,syria,kidnapped,july,0,2018
+2968,syria,kidnapped,august,1,2018
+2969,syria,kidnapped,august,1,2018
+2981,syria,kidnapped,september,1,2018
+2991,syria,kidnapped,october,0,2018
+3004,syria,kidnapped,november,0,2018
+3005,syria,kidnapped,november,1,2018
+3006,syria,kidnapped,november,0,2018
+3016,syria,kidnapped,december,1,2018
+3017,syria,kidnapped,december,0,2018
+3033,syria,arrested,january,0,2018
+3034,syria,arrested,january,0,2018
+3035,syria,arrested,january,0,2018
+3036,syria,arrested,january,0,2018
+3037,syria,arrested,january,0,2018
+3038,syria,arrested,january,1,2018
+3039,syria,arrested,january,0,2018
+3040,syria,arrested,january,0,2018
+3060,syria,arrested,february,0,2018
+3061,syria,arrested,february,0,2018
+3062,syria,arrested,february,0,2018
+3063,syria,arrested,february,0,2018
+3064,syria,arrested,february,0,2018
+3065,syria,arrested,february,0,2018
+3066,syria,arrested,february,0,2018
+3067,syria,arrested,february,0,2018
+3068,syria,arrested,february,0,2018
+3069,syria,arrested,february,0,2018
+3070,syria,arrested,february,0,2018
+3071,syria,arrested,february,0,2018
+3072,syria,arrested,february,0,2018
+3073,syria,arrested,february,0,2018
+3074,syria,arrested,february,0,2018
+3075,syria,arrested,february,0,2018
+3076,syria,arrested,february,0,2018
+3096,syria,arrested,march,0,2018
+3097,syria,arrested,march,0,2018
+3098,syria,arrested,march,0,2018
+3099,syria,arrested,march,0,2018
+3100,syria,arrested,march,0,2018
+3101,syria,arrested,march,0,2018
+3102,syria,arrested,march,0,2018
+3103,syria,arrested,march,0,2018
+3104,syria,arrested,march,0,2018
+3105,syria,arrested,march,0,2018
+3106,syria,arrested,march,0,2018
+3107,syria,arrested,march,0,2018
+3108,syria,arrested,march,0,2018
+3109,syria,arrested,march,0,2018
+3110,syria,arrested,march,1,2018
+3111,syria,arrested,march,1,2018
+3112,syria,arrested,march,0,2018
+3140,syria,arrested,april,1,2018
+3141,syria,arrested,april,0,2018
+3142,syria,arrested,april,0,2018
+3161,syria,arrested,may,0,2018
+3162,syria,arrested,may,0,2018
+3163,syria,arrested,may,0,2018
+3164,syria,arrested,may,0,2018
+3165,syria,arrested,may,0,2018
+3166,syria,arrested,may,1,2018
+3167,syria,arrested,may,1,2018
+3179,syria,arrested,june,0,2018
+3180,syria,arrested,june,0,2018
+3181,syria,arrested,june,0,2018
+3182,syria,arrested,june,0,2018
+3183,syria,arrested,june,0,2018
+3184,syria,arrested,june,0,2018
+3185,syria,arrested,june,0,2018
+3186,syria,arrested,june,0,2018
+3187,syria,arrested,june,0,2018
+3188,syria,arrested,june,0,2018
+3189,syria,arrested,june,0,2018
+3190,syria,arrested,june,0,2018
+3191,syria,arrested,june,1,2018
+3192,syria,arrested,june,1,2018
+3203,syria,arrested,july,0,2018
+3204,syria,arrested,july,0,2018
+3205,syria,arrested,july,1,2018
+3217,syria,arrested,august,0,2018
+3218,syria,arrested,august,0,2018
+3230,syria,arrested,september,0,2018
+3240,syria,arrested,october,1,2018
+3253,syria,arrested,november,0,2018
+3254,syria,arrested,november,0,2018
+3255,syria,arrested,november,1,2018
+3265,syria,arrested,december,0,2018
+3266,syria,arrested,december,0,2018
+3303,syria,killed,january,0,2019
+3304,syria,killed,march,1,2019
+3306,syria,killed,march,1,2019
+3307,syria,killed,march,1,2019
+3308,syria,killed,february,1,2019
+3310,syria,killed,february,0,2019
+3311,syria,killed,may,1,2019
+3354,syria,kidnapped,january,1,2019
+3355,syria,kidnapped,march,0,2019
+3357,syria,kidnapped,march,0,2019
+3358,syria,kidnapped,march,0,2019
+3359,syria,kidnapped,february,0,2019
+3361,syria,kidnapped,february,1,2019
+3362,syria,kidnapped,may,0,2019
+3405,syria,arrested,january,0,2019
+3406,syria,arrested,march,0,2019
+3408,syria,arrested,march,0,2019
+3409,syria,arrested,march,0,2019
+3410,syria,arrested,february,0,2019
+3412,syria,arrested,february,0,2019
+3413,syria,arrested,may,0,2019
+63,tanzania,kidnapped,january,0,2017
+133,tanzania,kidnapped,february,0,2017
+203,tanzania,kidnapped,march,0,2017
+273,tanzania,kidnapped,april,0,2017
+343,tanzania,kidnapped,may,0,2017
+413,tanzania,kidnapped,june,0,2017
+483,tanzania,kidnapped,july,0,2017
+553,tanzania,kidnapped,august,0,2017
+623,tanzania,kidnapped,september,0,2017
+693,tanzania,kidnapped,october,0,2017
+763,tanzania,kidnapped,november,0,2017
+833,tanzania,kidnapped,december,0,2017
+903,tanzania,killed,january,0,2017
+973,tanzania,killed,february,0,2017
+1043,tanzania,killed,march,0,2017
+1113,tanzania,killed,april,0,2017
+1183,tanzania,killed,may,0,2017
+1253,tanzania,killed,june,0,2017
+1323,tanzania,killed,july,0,2017
+1393,tanzania,killed,august,0,2017
+1463,tanzania,killed,september,0,2017
+1533,tanzania,killed,october,0,2017
+1603,tanzania,killed,november,0,2017
+1673,tanzania,killed,december,0,2017
+1743,tanzania,arrested,january,0,2017
+1813,tanzania,arrested,february,1,2017
+1883,tanzania,arrested,march,0,2017
+1953,tanzania,arrested,april,0,2017
+2023,tanzania,arrested,may,0,2017
+2093,tanzania,arrested,june,0,2017
+2163,tanzania,arrested,july,0,2017
+2233,tanzania,arrested,august,0,2017
+2303,tanzania,arrested,september,0,2017
+2373,tanzania,arrested,october,0,2017
+2443,tanzania,arrested,november,0,2017
+2513,tanzania,arrested,december,0,2017
+2543,tanzania,killed,january,0,2018
+2645,tanzania,killed,april,0,2018
+2708,tanzania,killed,july,0,2018
+2792,tanzania,kidnapped,january,1,2018
+2894,tanzania,kidnapped,april,1,2018
+2957,tanzania,kidnapped,july,5,2018
+3041,tanzania,arrested,january,0,2018
+3143,tanzania,arrested,april,0,2018
+3206,tanzania,arrested,july,0,2018
+64,turkey,kidnapped,january,0,2017
+134,turkey,kidnapped,february,0,2017
+204,turkey,kidnapped,march,0,2017
+274,turkey,kidnapped,april,0,2017
+344,turkey,kidnapped,may,0,2017
+414,turkey,kidnapped,june,0,2017
+484,turkey,kidnapped,july,0,2017
+554,turkey,kidnapped,august,0,2017
+624,turkey,kidnapped,september,0,2017
+694,turkey,kidnapped,october,0,2017
+764,turkey,kidnapped,november,0,2017
+834,turkey,kidnapped,december,0,2017
+904,turkey,killed,january,0,2017
+974,turkey,killed,february,0,2017
+1044,turkey,killed,march,0,2017
+1114,turkey,killed,april,0,2017
+1184,turkey,killed,may,0,2017
+1254,turkey,killed,june,0,2017
+1324,turkey,killed,july,0,2017
+1394,turkey,killed,august,0,2017
+1464,turkey,killed,september,0,2017
+1534,turkey,killed,october,0,2017
+1604,turkey,killed,november,0,2017
+1674,turkey,killed,december,0,2017
+1744,turkey,arrested,january,0,2017
+1814,turkey,arrested,february,1,2017
+1884,turkey,arrested,march,0,2017
+1954,turkey,arrested,april,1,2017
+2024,turkey,arrested,may,1,2017
+2094,turkey,arrested,june,1,2017
+2164,turkey,arrested,july,1,2017
+2234,turkey,arrested,august,1,2017
+2304,turkey,arrested,september,0,2017
+2374,turkey,arrested,october,0,2017
+2444,turkey,arrested,november,1,2017
+2514,turkey,arrested,december,1,2017
+2615,turkey,killed,march,0,2018
+2864,turkey,kidnapped,march,0,2018
+3113,turkey,arrested,march,1,2018
+65,uganda,kidnapped,january,0,2017
+135,uganda,kidnapped,february,0,2017
+205,uganda,kidnapped,march,0,2017
+275,uganda,kidnapped,april,0,2017
+345,uganda,kidnapped,may,0,2017
+415,uganda,kidnapped,june,0,2017
+485,uganda,kidnapped,july,0,2017
+555,uganda,kidnapped,august,0,2017
+625,uganda,kidnapped,september,0,2017
+695,uganda,kidnapped,october,0,2017
+765,uganda,kidnapped,november,0,2017
+835,uganda,kidnapped,december,0,2017
+905,uganda,killed,january,0,2017
+975,uganda,killed,february,0,2017
+1045,uganda,killed,march,0,2017
+1115,uganda,killed,april,0,2017
+1185,uganda,killed,may,0,2017
+1255,uganda,killed,june,0,2017
+1325,uganda,killed,july,1,2017
+1395,uganda,killed,august,0,2017
+1465,uganda,killed,september,0,2017
+1535,uganda,killed,october,0,2017
+1605,uganda,killed,november,0,2017
+1675,uganda,killed,december,0,2017
+1745,uganda,arrested,january,0,2017
+1815,uganda,arrested,february,0,2017
+1885,uganda,arrested,march,0,2017
+1955,uganda,arrested,april,0,2017
+2025,uganda,arrested,may,0,2017
+2095,uganda,arrested,june,0,2017
+2165,uganda,arrested,july,0,2017
+2235,uganda,arrested,august,0,2017
+2305,uganda,arrested,september,0,2017
+2375,uganda,arrested,october,0,2017
+2445,uganda,arrested,november,0,2017
+2515,uganda,arrested,december,0,2017
+2616,uganda,killed,march,0,2018
+2646,uganda,killed,april,0,2018
+2695,uganda,killed,june,0,2018
+2758,uganda,killed,november,0,2018
+2865,uganda,kidnapped,march,0,2018
+2895,uganda,kidnapped,april,0,2018
+2944,uganda,kidnapped,june,1,2018
+3007,uganda,kidnapped,november,1,2018
+3114,uganda,arrested,march,2,2018
+3144,uganda,arrested,april,1,2018
+3193,uganda,arrested,june,0,2018
+3256,uganda,arrested,november,0,2018
+66,ukraine,kidnapped,january,0,2017
+136,ukraine,kidnapped,february,0,2017
+206,ukraine,kidnapped,march,0,2017
+276,ukraine,kidnapped,april,0,2017
+346,ukraine,kidnapped,may,0,2017
+416,ukraine,kidnapped,june,0,2017
+486,ukraine,kidnapped,july,0,2017
+556,ukraine,kidnapped,august,0,2017
+626,ukraine,kidnapped,september,0,2017
+696,ukraine,kidnapped,october,0,2017
+766,ukraine,kidnapped,november,0,2017
+836,ukraine,kidnapped,december,0,2017
+906,ukraine,killed,january,0,2017
+976,ukraine,killed,february,0,2017
+1046,ukraine,killed,march,0,2017
+1116,ukraine,killed,april,0,2017
+1186,ukraine,killed,may,0,2017
+1256,ukraine,killed,june,0,2017
+1326,ukraine,killed,july,0,2017
+1396,ukraine,killed,august,0,2017
+1466,ukraine,killed,september,0,2017
+1536,ukraine,killed,october,0,2017
+1606,ukraine,killed,november,0,2017
+1676,ukraine,killed,december,0,2017
+1746,ukraine,arrested,january,0,2017
+1816,ukraine,arrested,february,0,2017
+1886,ukraine,arrested,march,0,2017
+1956,ukraine,arrested,april,0,2017
+2026,ukraine,arrested,may,0,2017
+2096,ukraine,arrested,june,0,2017
+2166,ukraine,arrested,july,0,2017
+2236,ukraine,arrested,august,0,2017
+2306,ukraine,arrested,september,0,2017
+2376,ukraine,arrested,october,0,2017
+2446,ukraine,arrested,november,0,2017
+2516,ukraine,arrested,december,0,2017
+2544,ukraine,killed,january,0,2018
+2793,ukraine,kidnapped,january,0,2018
+3042,ukraine,arrested,january,1,2018
+67,vanuatu,kidnapped,january,0,2017
+137,vanuatu,kidnapped,february,0,2017
+207,vanuatu,kidnapped,march,0,2017
+277,vanuatu,kidnapped,april,0,2017
+347,vanuatu,kidnapped,may,0,2017
+417,vanuatu,kidnapped,june,0,2017
+487,vanuatu,kidnapped,july,0,2017
+557,vanuatu,kidnapped,august,0,2017
+627,vanuatu,kidnapped,september,0,2017
+697,vanuatu,kidnapped,october,0,2017
+767,vanuatu,kidnapped,november,0,2017
+837,vanuatu,kidnapped,december,0,2017
+907,vanuatu,killed,january,0,2017
+977,vanuatu,killed,february,0,2017
+1047,vanuatu,killed,march,0,2017
+1117,vanuatu,killed,april,0,2017
+1187,vanuatu,killed,may,0,2017
+1257,vanuatu,killed,june,0,2017
+1327,vanuatu,killed,july,0,2017
+1397,vanuatu,killed,august,0,2017
+1467,vanuatu,killed,september,0,2017
+1537,vanuatu,killed,october,0,2017
+1607,vanuatu,killed,november,0,2017
+1677,vanuatu,killed,december,0,2017
+1747,vanuatu,arrested,january,0,2017
+1817,vanuatu,arrested,february,0,2017
+1887,vanuatu,arrested,march,0,2017
+1957,vanuatu,arrested,april,0,2017
+2027,vanuatu,arrested,may,0,2017
+2097,vanuatu,arrested,june,0,2017
+2167,vanuatu,arrested,july,0,2017
+2237,vanuatu,arrested,august,0,2017
+2307,vanuatu,arrested,september,0,2017
+2377,vanuatu,arrested,october,0,2017
+2447,vanuatu,arrested,november,0,2017
+2517,vanuatu,arrested,december,0,2017
+68,yemen,kidnapped,january,0,2017
+138,yemen,kidnapped,february,0,2017
+208,yemen,kidnapped,march,0,2017
+278,yemen,kidnapped,april,7,2017
+348,yemen,kidnapped,may,0,2017
+418,yemen,kidnapped,june,0,2017
+488,yemen,kidnapped,july,0,2017
+558,yemen,kidnapped,august,0,2017
+628,yemen,kidnapped,september,0,2017
+698,yemen,kidnapped,october,0,2017
+768,yemen,kidnapped,november,0,2017
+838,yemen,kidnapped,december,0,2017
+908,yemen,killed,january,0,2017
+978,yemen,killed,february,0,2017
+1048,yemen,killed,march,0,2017
+1118,yemen,killed,april,0,2017
+1188,yemen,killed,may,0,2017
+1258,yemen,killed,june,0,2017
+1328,yemen,killed,july,0,2017
+1398,yemen,killed,august,0,2017
+1468,yemen,killed,september,0,2017
+1538,yemen,killed,october,0,2017
+1608,yemen,killed,november,0,2017
+1678,yemen,killed,december,0,2017
+1748,yemen,arrested,january,1,2017
+1818,yemen,arrested,february,4,2017
+1888,yemen,arrested,march,2,2017
+1958,yemen,arrested,april,1,2017
+2028,yemen,arrested,may,2,2017
+2098,yemen,arrested,june,0,2017
+2168,yemen,arrested,july,0,2017
+2238,yemen,arrested,august,0,2017
+2308,yemen,arrested,september,0,2017
+2378,yemen,arrested,october,0,2017
+2448,yemen,arrested,november,2,2017
+2518,yemen,arrested,december,1,2017
+2545,yemen,killed,january,0,2018
+2546,yemen,killed,january,0,2018
+2547,yemen,killed,january,0,2018
+2647,yemen,killed,april,1,2018
+2696,yemen,killed,june,3,2018
+2721,yemen,killed,august,1,2018
+2733,yemen,killed,september,0,2018
+2743,yemen,killed,october,0,2018
+2744,yemen,killed,october,0,2018
+2769,yemen,killed,december,0,2018
+2794,yemen,kidnapped,january,1,2018
+2795,yemen,kidnapped,january,0,2018
+2796,yemen,kidnapped,january,0,2018
+2896,yemen,kidnapped,april,0,2018
+2945,yemen,kidnapped,june,0,2018
+2970,yemen,kidnapped,august,0,2018
+2982,yemen,kidnapped,september,13,2018
+2992,yemen,kidnapped,october,0,2018
+2993,yemen,kidnapped,october,0,2018
+3018,yemen,kidnapped,december,0,2018
+3043,yemen,arrested,january,0,2018
+3044,yemen,arrested,january,1,2018
+3045,yemen,arrested,january,1,2018
+3145,yemen,arrested,april,0,2018
+3194,yemen,arrested,june,0,2018
+3219,yemen,arrested,august,0,2018
+3231,yemen,arrested,september,0,2018
+3241,yemen,arrested,october,1,2018
+3242,yemen,arrested,october,1,2018
+3267,yemen,arrested,december,1,2018
+3312,yemen,killed,january,0,2019
+3313,yemen,killed,march,1,2019
+3314,yemen,killed,march,2,2019
+3315,yemen,killed,february,2,2019
+3316,yemen,killed,april,6,2019
+3318,yemen,killed,january,0,2019
+3363,yemen,kidnapped,january,0,2019
+3364,yemen,kidnapped,march,0,2019
+3365,yemen,kidnapped,march,0,2019
+3366,yemen,kidnapped,february,0,2019
+3367,yemen,kidnapped,april,0,2019
+3369,yemen,kidnapped,january,1,2019
+3414,yemen,arrested,january,1,2019
+3415,yemen,arrested,march,0,2019
+3416,yemen,arrested,march,0,2019
+3417,yemen,arrested,february,0,2019
+3418,yemen,arrested,april,0,2019
+3420,yemen,arrested,january,0,2019
+69,zambia,kidnapped,january,0,2017
+139,zambia,kidnapped,february,0,2017
+209,zambia,kidnapped,march,0,2017
+279,zambia,kidnapped,april,0,2017
+349,zambia,kidnapped,may,0,2017
+419,zambia,kidnapped,june,0,2017
+489,zambia,kidnapped,july,0,2017
+559,zambia,kidnapped,august,0,2017
+629,zambia,kidnapped,september,0,2017
+699,zambia,kidnapped,october,0,2017
+769,zambia,kidnapped,november,0,2017
+839,zambia,kidnapped,december,0,2017
+909,zambia,killed,january,0,2017
+979,zambia,killed,february,0,2017
+1049,zambia,killed,march,0,2017
+1119,zambia,killed,april,0,2017
+1189,zambia,killed,may,0,2017
+1259,zambia,killed,june,0,2017
+1329,zambia,killed,july,0,2017
+1399,zambia,killed,august,0,2017
+1469,zambia,killed,september,0,2017
+1539,zambia,killed,october,0,2017
+1609,zambia,killed,november,0,2017
+1679,zambia,killed,december,0,2017
+1749,zambia,arrested,january,0,2017
+1819,zambia,arrested,february,0,2017
+1889,zambia,arrested,march,0,2017
+1959,zambia,arrested,april,0,2017
+2029,zambia,arrested,may,0,2017
+2099,zambia,arrested,june,0,2017
+2169,zambia,arrested,july,0,2017
+2239,zambia,arrested,august,0,2017
+2309,zambia,arrested,september,0,2017
+2379,zambia,arrested,october,0,2017
+2449,zambia,arrested,november,0,2017
+2519,zambia,arrested,december,0,2017
+70,zimbabwe,kidnapped,january,0,2017
+140,zimbabwe,kidnapped,february,0,2017
+210,zimbabwe,kidnapped,march,0,2017
+280,zimbabwe,kidnapped,april,1,2017
+350,zimbabwe,kidnapped,may,0,2017
+420,zimbabwe,kidnapped,june,0,2017
+490,zimbabwe,kidnapped,july,0,2017
+560,zimbabwe,kidnapped,august,0,2017
+630,zimbabwe,kidnapped,september,0,2017
+700,zimbabwe,kidnapped,october,0,2017
+770,zimbabwe,kidnapped,november,0,2017
+840,zimbabwe,kidnapped,december,0,2017
+910,zimbabwe,killed,january,0,2017
+980,zimbabwe,killed,february,0,2017
+1050,zimbabwe,killed,march,0,2017
+1120,zimbabwe,killed,april,0,2017
+1190,zimbabwe,killed,may,0,2017
+1260,zimbabwe,killed,june,0,2017
+1330,zimbabwe,killed,july,0,2017
+1400,zimbabwe,killed,august,0,2017
+1470,zimbabwe,killed,september,0,2017
+1540,zimbabwe,killed,october,0,2017
+1610,zimbabwe,killed,november,0,2017
+1680,zimbabwe,killed,december,0,2017
+1750,zimbabwe,arrested,january,0,2017
+1820,zimbabwe,arrested,february,0,2017
+1890,zimbabwe,arrested,march,0,2017
+1960,zimbabwe,arrested,april,0,2017
+2030,zimbabwe,arrested,may,0,2017
+2100,zimbabwe,arrested,june,0,2017
+2170,zimbabwe,arrested,july,0,2017
+2240,zimbabwe,arrested,august,0,2017
+2310,zimbabwe,arrested,september,0,2017
+2380,zimbabwe,arrested,october,0,2017
+2450,zimbabwe,arrested,november,0,2017
+2520,zimbabwe,arrested,december,0,2017
