@@ -9,7 +9,7 @@ While they provide such good services their security ca be over looked.This dash
 
 Bellow is a preview of the dashboard.
 
-!png[](Screenshot_2019-07-10 INSECURITY INSIGHT - Aid Worker KKA (Killed,Kidnapped or Arrested).png)
+[](/Screenshot_2019-07-10 INSECURITY INSIGHT - Aid Worker KKA (Killed,Kidnapped or Arrested).png)
 
 ## Live link
 
