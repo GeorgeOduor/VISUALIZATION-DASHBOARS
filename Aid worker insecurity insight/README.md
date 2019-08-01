@@ -13,7 +13,7 @@ Bellow is a preview of the dashboard.
 
 ## Live link
 
-[georgeapp.shinyapps.io/insecurityinsight](georgeapp.shinyapps.io/insecurityinsight)
+[georgeapp.shinyapps.io/insecurityinsight](http://georgeapp.shinyapps.io/insecurityinsight)
 
 ## Data source
 
